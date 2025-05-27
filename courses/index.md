@@ -1,9 +1,52 @@
-<p align="center">
+<!-- <p align="center">
   <a href="../">🏠 <strong>Home</strong></a> |
   <a href="../notes/">📝 <strong>Research Notes</strong></a> |
   <a href="../research/">🎓 <strong>Course Notes</strong></a> |
   <a href="">📚 <strong>Knowledge Base</strong></a>
-</p>
+</p> -->
+
+<nav class="nav-container">
+  <a href="../" class="nav-item">🏠 Home</a>
+  <a href="../notes/" class="nav-item">📝 Research Notes</a>
+  <a href="../research/" class="nav-item">🎓 Course Notes</a>
+  <a href="" class="nav-item">📚 Knowledge Base</a>
+</nav>
+
+<style>
+  .nav-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* khoảng cách giữa các mục */
+    padding: 12px 0;
+    background-color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .nav-item {
+    padding: 8px 16px;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    color: #555;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background-color: #f5f5f5;
+  }
+
+  .nav-item:hover {
+    background-color: #007BFF;
+    color: white;
+    border-color: #0056b3;
+  }
+
+  .nav-item:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(0,123,255,0.5);
+  }
+</style>
 
 <div style="
     background-image: url('../assets/images/courses.jpg');

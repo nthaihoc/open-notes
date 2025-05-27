@@ -1,21 +1,32 @@
 <p align="center">
-  <a href="../">🏠 <strong>Trang chủ</strong></a> |
-  <a href="/notes/">📝 <strong>Ghi chú</strong></a> |
-  <a href="">🔬 <strong>Nghiên cứu</strong></a> |
-  <a href="../courses/">🎓 <strong>Khóa học</strong></a>
+  <a href="../">🏠 <strong>Home</strong></a> |
+  <a href="../notes/">📝 <strong>Research Notes</strong></a> |
+  <a href="../research/">🎓 <strong>Course Notes</strong></a> |
+  <a href="">📚 <strong>Knowledge Base</strong></a>
 </p>
 
-<div style="background-image: url('../assets/images/research.jpg'); 
-            padding: 120px 20px; 
-            color: white; 
-            text-align: center; 
-            background-size: cover; background-position: center;
-            margin-bottom: 30px;">
-  <h1 style="font-size: 48px; margin-bottom: 10px;">🔬 Ghi Chú Nghiên Cứu</h1>
-  <p style="font-size: 20px;">Tổng hợp từ các dự án thực tế và hành trình học tập cá nhân.</p>
+<div style="
+    background-image: url('../assets/images/research.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+    margin-bottom: 30px;
+">
 </div>
 
-[![Static Badge](https://img.shields.io/badge/Python-Org-yellow?style=flat&logo=python&logoColor=white)](https://python.org) [![Static Badge](https://img.shields.io/badge/Pytorch-Org-pink?style=flat&logo=pytorch&logoColor=brown)](https://pytorch.org/) [![Static Badge](https://img.shields.io/badge/mlflow-org-orange?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org/)
+# 🔬 Research Notes - Nhật ký Nghiên cứu
+
+> Tổng hợp từ các dự án thực tế và hành trình học tập cá nhân
+
+[![Static Badge](https://img.shields.io/badge/Python-docs-yellow?style=flat&logo=python&logoColor=white)](https://python.org) [![Static Badge](https://img.shields.io/badge/Pytorch-docs-pink?style=flat&logo=pytorch&logoColor=brown)](https://pytorch.org/) [![Static Badge](https://img.shields.io/badge/mlflow-docs-orange?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org/)
 
 ## 📌 Chủ đề nghiên cứu
 
