@@ -1,6 +1,6 @@
 <p align="center">
   <a href="notes/">📝 <strong>Ghi chú</strong></a> |
-  <a href="research/index.md">🔬 <strong>Nghiên cứu</strong></a> |
+  <a href="research/">🔬 <strong>Nghiên cứu</strong></a> |
   <a href="courses/">🎓 <strong>Khóa học</strong></a>
 </p>
 
