@@ -53,7 +53,7 @@ Khóa học [Hands-on Machine Learning](https://) cung cấp nền tảng vững
 | :-: | :----- | :---- | :--------: | :------: |
 | 1 | Tổng quan về Machine Learning | - Khái niệm về Machine Learning <br> - Ứng dụng thực tiễn và Phân loại hệ thống học máy <br> - Vòng đời của một mô hình học máy <br> - Kỹ thuật phân chia tập dữ liệu trong quá trình huấn luyện | N/A | N/A | 
 | 2 | Linear Regression (hồi quy tuyến tính) | - Hàm mất mát bình phương sai số (MSE) <br> - Phương trình chuẩn (Normal Equation) <br> - Gradient Descent và một số biến thể <br> - Hồi quy đa thức và Regularization (điều chuẩn) | N/A | N/A |
-| 3 | Phân loại (Classification) | - Tổng quan phân loại trong học máy <br> - Hồi quy Logistic <br> - Đo lường hiệu suất: Accuracy, Precision, Recall, F1-Score và Trade-off <br> - Phân loại đa lớp, đa nhãn và đa đầu ra | N/A | N/A |
+| 3 | Phân loại (Classification) | - Tổng quan phân loại trong học máy <br> - Hồi quy Logistic <br> - Đo lường hiệu suất: Accuracy, Precision, Recall, F1-Sco re và Trade-off <br> - Phân loại đa lớp, đa nhãn và đa đầu ra | N/A | N/A |
 
 ## 💪 Lời cảm ơn
 
