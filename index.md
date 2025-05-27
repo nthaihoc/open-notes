@@ -1,1 +1,2 @@
-# :heart: Welcome! This is my personal space to share knowledge, research notes, and mini-courses
+# ❤️ Welcome  
+### Open Notes by Thai Hoc Nguyen
