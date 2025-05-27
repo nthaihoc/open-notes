@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="open-notes/"> <strong>🏠 Trang chủ</strong></a> |
+  <a href=""> <strong>🏠 Trang chủ</strong></a> |
   <a href="notes/">📝 <strong>Ghi chú</strong></a> |
   <a href="research/">🔬 <strong>Nghiên cứu</strong></a> |
   <a href="courses/">🎓 <strong>Khóa học</strong></a>
