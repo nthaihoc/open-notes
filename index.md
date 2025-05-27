@@ -1,33 +1,20 @@
-<div style="
-  position: relative;
-  background-image: url('assets/images/home.jpg');
-  background-size: cover;
-  background-position: center;
-  height: 400px;
-  color: white;
-  text-align: center;
-">
+<p align="center">
+  <a href="open-notes/"> <strong>🏠 Trang chủ</strong></a> |
+  <a href="notes/">📝 <strong>Ghi chú</strong></a> |
+  <a href="research/">🔬 <strong>Nghiên cứu</strong></a> |
+  <a href="courses/">🎓 <strong>Khóa học</strong></a>
+</p>
 
-  <div style="
-    position: absolute;
-    top: 20px;
-    left: 50%;
-    transform: translateX(-50%);
-    font-size: 16px;
-  ">
-    <a href="/" style="color: white; margin: 0 10px; text-decoration: none;"><strong>🏠 Trang chủ</strong></a>
-    <a href="notes/" style="color: white; margin: 0 10px; text-decoration: none;">📝 Ghi chú</a>
-    <a href="research/" style="color: white; margin: 0 10px; text-decoration: none;">🔬 Nghiên cứu</a>
-    <a href="courses/" style="color: white; margin: 0 10px; text-decoration: none;">🎓 Khóa học</a>
-  </div>
-
-
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%)">
-    <h1 style="font-size: 48px; margin: 0;">Open Notes by Thai Hoc Nguyen</h1>
-    <p style="font-size: 20px;">Ghi chú, nghiên cứu và chia sẻ tri thức</p>
-  </div>
+<div style="background-image: url('assets/images/home.jpg'); 
+            background-size: cover;
+            background-position: center;
+            padding: 120px 20px;
+            color: white;
+            text-align: center;
+            margin-bottom: 30px;">
+  <h1 style="font-size: 48px; margin-bottom: 10px;">Open Notes by Thai Hoc Nguyen</h1>
+  <p style="font-size: 20px;">Ghi chú, nghiên cứu và chia sẻ tri thức</p>
 </div>
-
 
 [![Website](https://img.shields.io/badge/Personal-Website-red?style=flat&logo=webtrees&logoColor=blue)](https://nthaihoc.github.io/about-me) [![Github](https://img.shields.io/badge/Repo-Available-green?style=flat&logo=github)](https://nthaihoc.github.io/open-notes) [![Google Scholar](https://img.shields.io/badge/Scholar-View_Profile-blue?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi) 
 
