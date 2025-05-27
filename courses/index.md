@@ -38,3 +38,14 @@ Mỗi khóa học đều được chia thành từng chủ để nhỏ, mỗi ch
 | 2 | 📷 Computer Vision cơ bản | Tổng quan về xử lý ảnh, augmentation, và các kiến trúc CNN cơ bản | [[Link]](https://) |
 | 3 | 🔠 Large Language Models | Giới thiệu về LLMs, các mô hình nổi bật, ứng dụng và triển khai chúng từ đầu | [[Link]](https://) |
 
+## 💬 Góp ý & Đóng góp
+
+Những kiến thức trên toàn bộ website này đều là sự nhìn nhận, tổng hợp mang thiên hướng cá nhân. Do vậy, không thể tránh khỏi những sai sót, hạn chế. Tôi luôn mong muốn cải thiện và mở rộng nội dung tại đây. Nếu bạn có bất kỳ góp ý, câu hỏi, hay đề xuất nào hãy để lại cho tôi những lời góp ý, giúp nội dung bài học được cải thiện hơn, có nhiều góc nhìn hơn.
+
+Bạn có thể góp ý trực tiếp thông qua một số cách dưới đây:
+
+- Email: [thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com)
+
+- Mở issue trên GitHub
+
+- Hoặc gửi pull request nếu bạn muốn trực tiếp đóng góp!
