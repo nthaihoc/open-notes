@@ -1,3 +1,7 @@
+
+| [📝 Ghi chú](notes/) | [🔬 Nghiên cứu](research/) | [🎓 Khóa học](courses/) |
+| :-------------------:| :------------------------: | :----------------------:|
+
 <div style="background-image: url('https://cdn.pixabay.com/photo/2017/03/23/12/23/vintage-2168174_1280.jpg'); padding: 100px; color: white; text-align: center;">
   <h1> 🌿 Welcome - Open Notes by Thai Hoc Nguyen</h1>
 </div>
