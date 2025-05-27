@@ -16,6 +16,8 @@
   <p style="font-size: 18px;">Tổng hợp các tài liệu, nội dung thành các khóa học ngắn, phục vụ mục tiêu học tập, chia sẻ và ứng dụng thực tế</p>
 </div>
 
+[![Static Badge](https://img.shields.io/badge/Course-Machine_Learning-blue?logo=course)](https://) [![Static Badge](https://img.shields.io/badge/Geekfor-geeks-Silver?style=flat&logo=geeksforgeeks&logoColor=red)](https://) [![Static Badge](https://img.shields.io/badge/google-colab-red?style=flat&logo=googlecolab&logoColor=orange)](https://)
+
 ## 🧭 Mục tiêu và định hướng
 
 Các khóa học tại đây được tôi biên soạn và tổng hợp dựa trên quá trình tự học, nghiên cứu và ứng dụng thực tế. Mỗi khóa học đều tập trung vào thực hành và giúp bạn nắm rõ bản chất của vấn đề trong thời gian ngắn. Cá nhân tôi nghĩ, những nội dung này phù hợp cho:
