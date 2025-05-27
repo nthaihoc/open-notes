@@ -1,5 +1,8 @@
-
-[📝 **Ghi chú**](notes/) | [🔬 **Nghiên cứu**](research/) | [🎓 **Khóa học**](courses/)
+<p align="center">
+  <a href="notes/">📝 <strong>Ghi chú</strong></a> |
+  <a href="research/">🔬 <strong>Nghiên cứu</strong></a> |
+  <a href="courses/">🎓 <strong>Khóa học</strong></a>
+</p>
 
 ---
 
@@ -9,6 +12,8 @@
 # 🌿 Welcome - Open Notes by Thai Hoc Nguyen
 
 [![Website](https://img.shields.io/badge/Personal-Website-red?style=flat&logo=webtrees&logoColor=blue)](https://nthaihoc.github.io/about-me) [![Github](https://img.shields.io/badge/Repo-Available-green?style=flat&logo=github)](https://nthaihoc.github.io/open-notes) [![Google Scholar](https://img.shields.io/badge/Scholar-View_Profile-blue?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi) 
+
+## 👀 Về tôi
 
 👋 Xin chào! Tôi là **Nguyễn Thái Học**, kỹ sư và nhà nghiên cứu AI tại [Viện Khoa học & Công nghệ Ứng dụng (IAST)](https://iast.ictu.edu.vn), trực thuộc [Trường Đại học Công nghệ Thông tin & Truyền thông (ICTU)](https://ictu.edu.vn).
  
@@ -26,8 +31,8 @@
 
 | Mục    | Mô tả                                  |
 | :-----------   | :------------------------------------------- |
-| [📝 Ghi chú](notes/)     | Ghi chú hằng ngày, ý tưởng cá nhân và nhật ký học tập |
-| [🔬 Nghiên cứu](research/) | Tóm tắt, tổng hợp nhật ký nghiên cứu |
-| [🎓 Khóa học](courses/)   | Khóa học ngắn và tài liệu học tập |
+| [📝 **Ghi chú**](notes/)     | Ghi chú hằng ngày, ý tưởng cá nhân và nhật ký học tập |
+| [🔬 **Nghiên cứu**](research/) | Tóm tắt, tổng hợp nhật ký nghiên cứu |
+| [🎓 **Khóa học**](courses/)   | Khóa học ngắn và tài liệu học tập |
 
 🚀 Tôi hy vọng nơi đây sẽ trở thành một nguồn tài nguyên hữu ích – nơi bạn có thể tìm thấy điều mình đang tìm kiếm, hoặc đơn giản là cùng tôi học thêm điều mới mỗi ngày.
