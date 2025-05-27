@@ -5,20 +5,27 @@
   <a href="">🎓 <strong>Khóa học</strong></a>
 </p>
 
-<div style="background-image: url('../../assets/images/courses.jpg'); 
-            background-size: cover;
-            background-position: center;
-            padding: 120px 20px;
-            color: white;
-            text-align: center;
-            margin-bottom: 30px;">
-  <h1 style="font-size: 40px; margin-bottom: 10px;">🖇️ Hands-on Machine Learning Course</h1>
-  <p style="font-size: 18px;"></p>
+<div style="
+    background-image: url('../../assets/images/courses.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+    margin-bottom: 30px;
+">
 </div>
 
-# 🌲 Hands-on Machine Learning Course
+# 🌲 Applied Machine Learning Course - Khóa học Ứng dụng Học máy
+> Học sâu - Làm thật - Ứng dụng thực tiễn
 
-[![Static Badge](https://img.shields.io/badge/Course-Machine_Learning-blue?logo=course)](https://) [![Static Badge](https://img.shields.io/badge/Geekfor-geeks-Silver?style=flat&logo=geeksforgeeks&logoColor=red)](https://) [![Static Badge](https://img.shields.io/badge/google-colab-red?style=flat&logo=googlecolab&logoColor=orange)](https://)
+[![Static Badge](https://img.shields.io/badge/CS229-Machine_Learning-purple?style=flat&logo=coursera&logoColor=white)](https://) [![Static Badge](https://img.shields.io/badge/Geekfor-Geeks-Silver?style=flat&logo=geeksforgeeks&logoColor=red)](https://) [![Static Badge](https://img.shields.io/badge/Google-Colab-red?style=flat&logo=googlecolab&logoColor=orange)](https://) [![Static Badge](https://img.shields.io/badge/Tensorflow-docs-tavily?logo=tensorflow&logoColor=orange)]([https://](https://www.tensorflow.org/))
 
 ## 🔍 Thông tin khóa học
 
