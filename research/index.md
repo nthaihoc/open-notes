@@ -9,7 +9,7 @@
   .nav-container {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap; /* Cho phép xuống hàng trên màn hình nhỏ */
+    flex-wrap: wrap;
     gap: 20px;
     padding: 12px 0;
     background-color: #fff;

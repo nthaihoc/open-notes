@@ -2,14 +2,15 @@
   <a href="../../" class="nav-item">🏠 Home</a>
   <a href="../../research/" class="nav-item">📝 Research Notes</a>
   <a href="../../courses/" class="nav-item">🎓 Course Notes</a>
-  <a href=" " class="nav-item">📚 Knowledge Base</a>
+  <a href="" class="nav-item">📚 Knowledge Base</a>
 </nav>
 
 <style>
   .nav-container {
     display: flex;
     justify-content: center;
-    gap: 20px; /* khoảng cách giữa các mục */
+    flex-wrap: wrap;
+    gap: 20px;
     padding: 12px 0;
     background-color: #fff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -27,6 +28,7 @@
     align-items: center;
     gap: 6px;
     background-color: #f5f5f5;
+    white-space: nowrap;
   }
 
   .nav-item:hover {
@@ -38,6 +40,13 @@
   .nav-item:focus {
     outline: none;
     box-shadow: 0 0 0 3px rgba(0,123,255,0.5);
+  }
+
+  @media (max-width: 480px) {
+    .nav-item {
+      padding: 6px 10px;
+      font-size: 14px;
+    }
   }
 </style>
 
