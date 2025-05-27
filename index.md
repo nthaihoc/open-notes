@@ -1,13 +1,20 @@
+<div style="background-image: url('assets/images/home.jpg'); 
+            background-size: cover;
+            background-position: center;
+            padding: 120px 20px;
+            color: white;
+            text-align: center;
+            margin-bottom: 30px;">
+  <h1 style="font-size: 48px; margin-bottom: 10px;">Open Notes by Thai Hoc Nguyen</h1>
+  <p style="font-size: 20px;">Ghi chú, nghiên cứu và chia sẻ tri thức</p>
+</div>
+
 <p align="center">
+  <a href="/"> <strong>🏠 Trang chủ</strong></a> |
   <a href="notes/">📝 <strong>Ghi chú</strong></a> |
   <a href="research/">🔬 <strong>Nghiên cứu</strong></a> |
   <a href="courses/">🎓 <strong>Khóa học</strong></a>
 </p>
-
----
-
-<div style="background-image: url('https://cdn.pixabay.com/photo/2017/03/23/12/23/vintage-2168174_1280.jpg'); padding: 100px; color: white; text-align: center;">
-</div>
 
 # 🌿 Welcome - Open Notes by Thai Hoc Nguyen
 
