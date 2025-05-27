@@ -98,10 +98,9 @@
 
 Bạn có thể kết nối với tôi qua những nền tảng dưới dây:
 
-- Email: [thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com)
-
-- Facebook: [https://facebook.com/nthaihoc02](https://facebook.com/nthaihoc02)
-
-- Website cá nhân: [https://nthaihoc.github.io/about-me](https://nthaihoc.github.io/about-me)
-
-- Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi)
+|       |         |
+| :---- | :-----: |
+| ✉️ Email | [Link](mailto:thaihoc.ictu@gmail.com) |
+| 💬 Facebook | [Link](https://facebook.com/nthaihoc02) |
+| 🌐 Website | [Link](https://nthaihoc.github.io/about-me) |
+| 🗞️ Scholar | [Link](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi) |
