@@ -15,7 +15,7 @@
 
 ## 👀 Về tôi
 
-👋 Xin chào! Tôi là **Nguyễn Thái Học**, kỹ sư và nhà nghiên cứu AI tại [Viện Khoa học & Công nghệ Ứng dụng (IAST)](https://iast.ictu.edu.vn), trực thuộc [Trường Đại học Công nghệ Thông tin & Truyền thông (ICTU)](https://ictu.edu.vn).
+👋 Xin chào! Tôi là **Nguyễn Thái Học**, kỹ sư và nhà nghiên cứu AI tại [**Viện Khoa học & Công nghệ Ứng dụng (IAST)**](https://iast.ictu.edu.vn), trực thuộc [**Trường Đại học Công nghệ Thông tin & Truyền thông (ICTU)**](https://ictu.edu.vn).
  
 📚 Hiện tại, tôi tập trung nghiên cứu và phát triển các giải pháp AI, ứng dụng Machine Learning, Computer Vision và các Mô hình Ngôn ngữ Lớn (LLMs) vào lĩnh vực chăm sóc sức khỏe và giáo dục. Tôi cũng đam mê khám phá các kỹ thuật AI tiên tiến trong nhiều lĩnh vực đa dạng như ứng dụng 3D, phương tiện tự hành và xử lý dữ liệu lớn.
 
@@ -27,6 +27,14 @@
 
 - 🌍 **Chia sẻ mở** – nơi tôi tổ chức và chia sẻ lại tri thức cho cộng đồng.
 
+## 📬 Liên hệ
+
+Bạn có thể kết nối với tôi qua:
+
+- ✉️ Email: [thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com)
+- 🌐 Website cá nhân: [https://nthaihoc.github.io/about-me](https://nthaihoc.github.io/about-me)
+- 🔗 [Google Scholar](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi)
+
 ## 🏷️ Điều hướng
 
 | Mục    | Mô tả                                  |
@@ -36,3 +44,5 @@
 | [🎓 **Khóa học**](courses/)   | Khóa học ngắn và tài liệu học tập |
 
 🚀 Tôi hy vọng nơi đây sẽ trở thành một nguồn tài nguyên hữu ích – nơi bạn có thể tìm thấy điều mình đang tìm kiếm, hoặc đơn giản là cùng tôi học thêm điều mới mỗi ngày.
+
+---
