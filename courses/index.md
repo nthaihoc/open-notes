@@ -8,7 +8,7 @@
 <div style="background-image: url('../assets/images/courses.jpg'); 
             background-size: cover;
             background-position: center;
-            padding: 100px 20px;
+            padding: 120px 20px;
             color: white;
             text-align: center;
             margin-bottom: 30px;">
@@ -32,7 +32,7 @@ Mỗi khóa học đều được chia thành từng chủ để nhỏ, mỗi ch
 
 | STT | Tên khóa học | Mô tả | Liên kết |
 | :---: | :----- | :------ | :-------: |
-| 1 | 🤖 **Hands-on Machine Learning** |  Học qua thực hành các kỹ thuật học máy cơ bản và nâng cao với scikit-learn và PyTorch | [[Link]](https://) |
+| 1 | 🤖 Hands-on Machine Learning |  Học qua thực hành các kỹ thuật học máy cơ bản và nâng cao với scikit-learn và PyTorch | [[Link]](https://) |
 | 2 | 📷 Computer Vision cơ bản | Tổng quan về xử lý ảnh, augmentation, và các kiến trúc CNN cơ bản | [[Link]](https://) |
 | 3 | 🔠 Large Language Models | Giới thiệu về LLMs, các mô hình nổi bật, ứng dụng và triển khai chúng từ đầu | [[Link]](https://) |
 
