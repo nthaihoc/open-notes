@@ -1,15 +1,8 @@
-<!-- <p align="center">
-  <a href="../">🏠 <strong>Home</strong></a> |
-  <a href="../notes/">📝 <strong>Research Notes</strong></a> |
-  <a href="../research/">🎓 <strong>Course Notes</strong></a> |
-  <a href="">📚 <strong>Knowledge Base</strong></a>
-</p> -->
-
 <nav class="nav-container">
   <a href="../" class="nav-item">🏠 Home</a>
-  <a href="../notes/" class="nav-item">📝 Research Notes</a>
-  <a href="../research/" class="nav-item">🎓 Course Notes</a>
-  <a href="" class="nav-item">📚 Knowledge Base</a>
+  <a href="../research/" class="nav-item">📝 Research Notes</a>
+  <a href="../courses/" class="nav-item">🎓 Course Notes</a>
+  <a href=" " class="nav-item">📚 Knowledge Base</a>
 </nav>
 
 <style>
