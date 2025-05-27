@@ -37,5 +37,7 @@
 
 Bộ dữ liệu về ung thư cổ tử cung được thu thập và gán nhãn thủ công bởi các bác sĩ chuyên khoa tại [Bệnh viện A, Thái Nguyên](https://). Dữ liệu hiện đã được công khai phục vụ cho mục đích tham khảo và nghiên cứu.
 
-[Atlat datasets](https://label.ai4med.vn/auth/login) | Account: BOCSDL@ai4med.com | Password: [BenhvienAThaiNguyen](https://)
+- Link: [Atlat datasets](https://label.ai4med.vn/auth/login)
+- Account: ```BOCSDL@ai4med.com```
+- Password: ```BenhvienAThaiNguyen```
 
