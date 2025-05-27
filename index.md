@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="/"> <strong>🏠 Trang chủ</strong></a> |
+  <a href="notes/">📝 <strong>Ghi chú</strong></a> |
+  <a href="research/">🔬 <strong>Nghiên cứu</strong></a> |
+  <a href="courses/">🎓 <strong>Khóa học</strong></a>
+</p>
+
 <div style="background-image: url('assets/images/home.jpg'); 
             background-size: cover;
             background-position: center;
@@ -8,15 +15,6 @@
   <h1 style="font-size: 48px; margin-bottom: 10px;">Open Notes by Thai Hoc Nguyen</h1>
   <p style="font-size: 20px;">Ghi chú, nghiên cứu và chia sẻ tri thức</p>
 </div>
-
-<p align="center">
-  <a href="/"> <strong>🏠 Trang chủ</strong></a> |
-  <a href="notes/">📝 <strong>Ghi chú</strong></a> |
-  <a href="research/">🔬 <strong>Nghiên cứu</strong></a> |
-  <a href="courses/">🎓 <strong>Khóa học</strong></a>
-</p>
-
-# 🌿 Welcome - Open Notes by Thai Hoc Nguyen
 
 [![Website](https://img.shields.io/badge/Personal-Website-red?style=flat&logo=webtrees&logoColor=blue)](https://nthaihoc.github.io/about-me) [![Github](https://img.shields.io/badge/Repo-Available-green?style=flat&logo=github)](https://nthaihoc.github.io/open-notes) [![Google Scholar](https://img.shields.io/badge/Scholar-View_Profile-blue?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi) 
 
