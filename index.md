@@ -1,6 +1,5 @@
 
-| [📝 **Ghi chú**](notes/) | [🔬 **Nghiên cứu**](research/) | [🎓 **Khóa học**](courses/) |
-| :---: | :----: | :----: | 
+[📝 **Ghi chú**](notes/) | [🔬 **Nghiên cứu**](research/) | [🎓 **Khóa học**](courses/)
 
 ---
 
@@ -8,7 +7,6 @@
 </div>
 
 # 🌿 Welcome - Open Notes by Thai Hoc Nguyen
----
 
 [![Website](https://img.shields.io/badge/Personal-Website-red?style=flat&logo=webtrees&logoColor=blue)](https://nthaihoc.github.io/about-me) [![Github](https://img.shields.io/badge/Repo-Available-green?style=flat&logo=github)](https://nthaihoc.github.io/open-notes) [![Google Scholar](https://img.shields.io/badge/Scholar-View_Profile-blue?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi) 
 
