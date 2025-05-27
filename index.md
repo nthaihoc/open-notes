@@ -1,6 +1,6 @@
 <p align="center">
   <a href="notes/">📝 <strong>Ghi chú</strong></a> |
-  <a href="research/">🔬 <strong>Nghiên cứu</strong></a> |
+  <a href="research/index.md">🔬 <strong>Nghiên cứu</strong></a> |
   <a href="courses/">🎓 <strong>Khóa học</strong></a>
 </p>
 
@@ -33,16 +33,14 @@ Bạn có thể kết nối với tôi qua:
 
 - ✉️ Email: [thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com)
 - 🌐 Website cá nhân: [https://nthaihoc.github.io/about-me](https://nthaihoc.github.io/about-me)
-- 🔗 [Google Scholar](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi)
+- 🔗 Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi)
 
-## 🏷️ Điều hướng
+## 🔖 Điều hướng
 
 | Mục    | Mô tả                                  |
 | :-----------   | :------------------------------------------- |
-| [📝 **Ghi chú**](notes/)     | Ghi chú hằng ngày, ý tưởng cá nhân và nhật ký học tập |
-| [🔬 **Nghiên cứu**](research/) | Tóm tắt, tổng hợp nhật ký nghiên cứu |
-| [🎓 **Khóa học**](courses/)   | Khóa học ngắn và tài liệu học tập |
+| [📝 Ghi chú](notes/)     | Ghi chú hằng ngày, ý tưởng cá nhân và nhật ký học tập |
+| [🔬 Nghiên cứu](research/) | Tóm tắt, tổng hợp nhật ký nghiên cứu |
+| [🎓 Khóa học](courses/)   | Khóa học ngắn và tài liệu học tập |
 
 🚀 Tôi hy vọng nơi đây sẽ trở thành một nguồn tài nguyên hữu ích – nơi bạn có thể tìm thấy điều mình đang tìm kiếm, hoặc đơn giản là cùng tôi học thêm điều mới mỗi ngày.
-
----
