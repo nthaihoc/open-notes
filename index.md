@@ -5,9 +5,9 @@
 ---
 
 <div style="background-image: url('https://cdn.pixabay.com/photo/2017/03/23/12/23/vintage-2168174_1280.jpg'); padding: 100px; color: white; text-align: center;">
-  <h1> 🌿 Welcome - Open Notes by Thai Hoc Nguyen</h1>
 </div>
 
+# 🌿 Welcome - Open Notes by Thai Hoc Nguyen
 ---
 
 [![Website](https://img.shields.io/badge/Personal-Website-red?style=flat&logo=webtrees&logoColor=blue)](https://nthaihoc.github.io/about-me) [![Github](https://img.shields.io/badge/Repo-Available-green?style=flat&logo=github)](https://nthaihoc.github.io/open-notes) [![Google Scholar](https://img.shields.io/badge/Scholar-View_Profile-blue?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi) 
