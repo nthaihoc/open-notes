@@ -1,24 +1,27 @@
 <style>
   .nav-container {
-    text-align: center;
+    display: flex;
+    justify-content: center; /* Căn giữa theo chiều ngang */
     background-color: #f0f0f0;
     padding: 10px 0;
+    flex-wrap: wrap; /* Cho phép xuống hàng khi màn hình nhỏ */
   }
   .nav-item {
-    margin: 0 15px;
+    margin: 5px 15px; /* Khoảng cách đều, thêm margin trên dưới cho xuống hàng đẹp */
     text-decoration: none;
-    font-weight: bold;
     color: black;
     font-size: 16px;
+    white-space: nowrap; /* Ngăn xuống dòng giữa icon và chữ */
   }
 </style>
 
 <nav class="nav-container">
-  <a href="" class="nav-item">🏠 Home</a>
-  <a href="research/" class="nav-item">📝 Research Notes</a>
-  <a href="courses/" class="nav-item">🎓 Course Notes</a>
-  <a href="" class="nav-item">📚 Knowledge Base</a>
+  <a href="" class="nav-item">🏠 <strong>Home</strong></a>
+  <a href="research/" class="nav-item">📝 <strong>Research Notes</strong></a>
+  <a href="courses/" class="nav-item">🎓 <strong>Course Notes</strong></a>
+  <a href="" class="nav-item">📚 <strong>Knowledge Base</strong></a>
 </nav>
+
 
 <div style="
     background-image: url('assets/images/home.jpg');
