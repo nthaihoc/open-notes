@@ -75,9 +75,10 @@
 ![Static Badge](https://img.shields.io/badge/Repo-Available-green?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Portfolio-Website-red?style=for-the-badge&logo=westernunion&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Google-Scholar-orange?style=for-the-badge&logo=googlescholar&logoColor=blue)
+
 ![Static Badge](https://img.shields.io/badge/Facebook-nthaihoc02-pink?style=for-the-badge&logo=facebook&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/email-thaihoc.ictu-yellow?style=for-the-badge&logo=gmail&logoColor=white)
-
+[![Static Badge](https://img.shields.io/badge/Kaggle-thaihoc-brown?style=for-the-badge&logo=kaggle&logoColor=blue)](https://www.kaggle.com/nguyenthaihoc)
 
 ## 👀 Về tôi
 
