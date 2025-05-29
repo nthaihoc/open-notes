@@ -69,7 +69,7 @@
 
 # 🌿 OpenNotes Hub - Ghi chú Mở
 
-> Ghi chú, nghiên cứu và chia sẻ tri thức
+> 🚀 *"Be kind. Be curious. Be courageous."* — Lex Fridman (MIT AI researcher, podcaster)
 
 [![Website](https://img.shields.io/badge/Personal-Website-red?style=flat&logo=webtrees&logoColor=blue)](https://nthaihoc.github.io/about-me) [![Github](https://img.shields.io/badge/Repo-Available-green?style=flat&logo=github)](https://nthaihoc.github.io/open-notes) [![Google Scholar](https://img.shields.io/badge/Scholar-View_Profile-blue?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi) 
 
@@ -85,11 +85,11 @@
 
 🧠 Trang web này được tôi xây dựng với ba mục tiêu chính:
 
-- **Quản lý tri thức cá nhân** – ghi chú hằng ngày, suy nghĩ nghiên cứu và tổng hợp kiến thức đã học.
+- *Quản lý tri thức cá nhân:* ghi chú hằng ngày, suy nghĩ nghiên cứu và tổng hợp kiến thức đã học.
 
-- **Biên soạn khóa học ngắn** – hệ thống hóa kiến thức thành các khóa học tự học súc tích.
+- *Biên soạn khóa học ngắn:* hệ thống hóa kiến thức thành các khóa học tự học súc tích.
 
-- **Chia sẻ mở** – nơi tôi tổ chức và chia sẻ lại tri thức cho cộng đồng.
+- *Chia sẻ mở:* nơi tôi tổ chức và chia sẻ lại tri thức cho cộng đồng.
 
 
 🚀 Tôi hy vọng nơi đây sẽ trở thành một nguồn tài nguyên hữu ích – nơi bạn có thể tìm thấy điều mình đang tìm kiếm, hoặc đơn giản là cùng tôi học thêm điều mới mỗi ngày.
@@ -98,9 +98,9 @@
 
 Bạn có thể kết nối với tôi qua những nền tảng dưới dây:
 
-|       |         |
-| :---- | :-----: |
-| ✉️ Email | [Link](mailto:thaihoc.ictu@gmail.com) |
-| 💬 Facebook | [Link](https://facebook.com/nthaihoc02) |
-| 🌐 Website | [Link](https://nthaihoc.github.io/about-me) |
-| 🗞️ Scholar | [Link](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi) |
+| Kênh | Liên kết |
+|------|----------|
+| ✉️ **Email** | [thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com) |
+| 💬 **Facebook** | [facebook.com/nthaihoc02](https://facebook.com/nthaihoc02) |
+| 🌐 **Website cá nhân** | [nthaihoc.github.io/about-me](https://nthaihoc.github.io/about-me) |
+| 🗞️ **Google Scholar** | [scholar.google.com](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi) |
