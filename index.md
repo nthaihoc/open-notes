@@ -2,7 +2,7 @@
   <a href="" class="nav-item">🏠 Home</a>
   <a href="research/" class="nav-item">📝 Research Notes</a>
   <a href="courses/" class="nav-item">🎓 Course Notes</a>
-  <a href="" class="nav-item">📚 Knowledge Base</a>
+  <a href="notes/" class="nav-item">📚 Knowledge Base</a>
 </nav>
 
 <style>
@@ -67,17 +67,21 @@
 ">
 </div>
 
-# 🌿 OpenNotes Hub - Ghi chú Mở
+# ☘️ OpenNotes Hub
 
-> 🚀 *"Be kind. Be curious. Be courageous."* — Lex Fridman (MIT AI researcher, podcaster)
+> 🌵 *"Be kind. Be curious. Be courageous."* <br>
+> 🌾 *"What I cannot create, I do not understand"*
 
-[![Website](https://img.shields.io/badge/Personal-Website-red?style=flat&logo=webtrees&logoColor=blue)](https://nthaihoc.github.io/about-me) [![Github](https://img.shields.io/badge/Repo-Available-green?style=flat&logo=github)](https://nthaihoc.github.io/open-notes) [![Google Scholar](https://img.shields.io/badge/Scholar-View_Profile-blue?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi) 
+![Static Badge](https://img.shields.io/badge/Repo-Available-green?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Portfolio-Website-red?style=for-the-badge&logo=westernunion&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Google-Scholar-orange?style=for-the-badge&logo=googlescholar&logoColor=blue)
+
 
 ## 👀 Về tôi
 
 👋 Xin chào! Tôi là [Nguyễn Thái Học](https://), kỹ sư và nhà nghiên cứu AI tại [Viện Khoa học & Công nghệ Ứng dụng (IAST)](https://iast.ictu.edu.vn), trực thuộc [Trường Đại học Công nghệ Thông tin & Truyền thông (ICTU)](https://ictu.edu.vn).
  
-📚 Hiện tại, tôi đang tập trung làm việc và nghiên cứu ở một số lĩnh vực như:
+🏢 Hiện tại, tôi đang tập trung làm việc và nghiên cứu ở một số lĩnh vực như:
 
 - Ứng dụng Machine Learning (Học máy), Computer Vision (Học sâu) và Large Language Models (Mô hình ngôn ngữ lớn) trong lĩnh vực chăm sóc sức khỏe và giáo dục. 
 
@@ -85,22 +89,21 @@
 
 🧠 Trang web này được tôi xây dựng với ba mục tiêu chính:
 
-- *Quản lý tri thức cá nhân:* ghi chú hằng ngày, suy nghĩ nghiên cứu và tổng hợp kiến thức đã học.
+- Quản lý tri thức cá nhân - *ghi chú hằng ngày, suy nghĩ nghiên cứu và tổng hợp kiến thức đã học.*
 
-- *Biên soạn khóa học ngắn:* hệ thống hóa kiến thức thành các khóa học tự học súc tích.
+- Biên soạn khóa học ngắn - *hệ thống hóa kiến thức thành các khóa học tự học súc tích.*
 
-- *Chia sẻ mở:* nơi tôi tổ chức và chia sẻ lại tri thức cho cộng đồng.
-
+- Chia sẻ mở - *nơi tôi tổ chức và chia sẻ lại tri thức cho cộng đồng.*
 
 🚀 Tôi hy vọng nơi đây sẽ trở thành một nguồn tài nguyên hữu ích – nơi bạn có thể tìm thấy điều mình đang tìm kiếm, hoặc đơn giản là cùng tôi học thêm điều mới mỗi ngày.
 
-## 📬 Liên hệ
+## ☎️ Liên hệ
 
 Bạn có thể kết nối với tôi qua những nền tảng dưới dây:
 
 | Kênh | Liên kết |
 |------|----------|
-| ✉️ **Email** | [thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com) |
-| 💬 **Facebook** | [facebook.com/nthaihoc02](https://facebook.com/nthaihoc02) |
-| 🌐 **Website cá nhân** | [nthaihoc.github.io/about-me](https://nthaihoc.github.io/about-me) |
-| 🗞️ **Google Scholar** | [scholar.google.com](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi) |
+| ✉️ *Email* | [thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com) |
+| 💬 *Facebook* | [facebook.com/nthaihoc02](https://facebook.com/nthaihoc02) |
+| 🌐 *Website cá nhân* | [nthaihoc.github.io/about-me](https://nthaihoc.github.io/about-me) |
+| 🗞️ *Google Scholar* | [scholar.google.com](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi) |
