@@ -75,31 +75,39 @@
 ![Static Badge](https://img.shields.io/badge/Repo-Available-green?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Portfolio-Website-red?style=for-the-badge&logo=westernunion&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Google-Scholar-orange?style=for-the-badge&logo=googlescholar&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Facebook-nthaihoc02-pink?style=for-the-badge&logo=facebook&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/email-thaihoc.ictu-yellow?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 ## 👀 Về tôi
 
-👋 Xin chào! Tôi là [Nguyễn Thái Học](https://), kỹ sư và nhà nghiên cứu AI tại [Viện Khoa học & Công nghệ Ứng dụng (IAST)](https://iast.ictu.edu.vn), trực thuộc [Trường Đại học Công nghệ Thông tin & Truyền thông (ICTU)](https://ictu.edu.vn).
- 
-🏢 Hiện tại, tôi đang tập trung làm việc và nghiên cứu ở một số lĩnh vực như:
+👋 Xin chào! Tôi là [Nguyễn Thái Học](https://nthaihoc.github.io/about-me) - kỹ sư và nhà nghiên cứu Trí tuệ nhân tạo (Artificial Intelligence - AI) tại [Viện Khoa học & Công nghệ Ứng dụng (IAST)](https://iast.ictu.edu.vn), trực thuộc [Trường Đại học Công nghệ Thông tin & Truyền thông (ICTU)](https://ictu.edu.vn). 
 
-- Ứng dụng Machine Learning (Học máy), Computer Vision (Học sâu) và Large Language Models (Mô hình ngôn ngữ lớn) trong lĩnh vực chăm sóc sức khỏe và giáo dục. 
+Tôi bắt đầu theo học chương trình kỹ sư chuyên nghành Khoa học dữ liệu & Trí tuệ nhân tạo (Data Science & Artificial Intelligence) tại ICTU vào năm 2020 và dự kiến tốt nghiệp vào năm 2025. Niềm đam mê với AI của tôi chỉ thực sự bùng nổ vào cuối năm thứ ba đại học, khi tôi bắt đầu tiếp cận sâu hơn các môn học chuyên nghành.
 
-- Bên cạnh đó, tôi cũng quan tâm đến nhiều kỹ thuật AI tiên tiến khác, có thể kể đến xử lý hình ảnh 3D, xe tự lái và dữ liệu lớn.
+Tháng 08/2024, tôi tham gia nghiên cứu tại Viện IAST với vai trò thực tập sinh thị giác máy tính (Computer Vision Intern). Tại đây, tôi vừa củng cố kiến thức nền tảng vừa trực tiếp nghiên cứu và phát triển một số ứng dụng AI trong lĩnh vực chăm sóc sức khỏe (healthcare) và giáo dục (education).
 
-🧠 Trang web này được tôi xây dựng với ba mục tiêu chính:
+🏢 Hiện tại, tôi đang tập trung nghiên cứu và phát triển các ứng dụng Machine Learning (học máy) và Computer Vision (thị giác máy tính) cho bài toán chẩn đoán ung thư cổ tử cung. Đồng thời, tôi cũng làm việc với các mô hình ngôn ngữ lớn (Large Language Models) và mô hình ngôn ngữ thị giác (Vision Language Models) nhằm cải thiện các ứng dụng trong lĩnh vực y tế và phát triển nền tảng giáo dục trực tuyến.
 
-- Quản lý tri thức cá nhân - *ghi chú hằng ngày, suy nghĩ nghiên cứu và tổng hợp kiến thức đã học.*
+Ngoài ra, tôi quan tâm và đang mở rộng nghiên cứu trong các lĩnh vực sau:
 
-- Biên soạn khóa học ngắn - *hệ thống hóa kiến thức thành các khóa học tự học súc tích.*
+- Ứng dụng MLOps, DLOps, LLMOps để tối ưu hóa quy trình phát triển, triển khai và vận hành các mô hình AI.
 
-- Chia sẻ mở - *nơi tôi tổ chức và chia sẻ lại tri thức cho cộng đồng.*
+- Nghiên cứu các kỹ thuật AI tiên tiến như xử lý hình ảnh 3D, xe tự lái và xử lý dữ liệu lớn.
+
+🧠 [OpenNotes Hub (Ghi chú mở)](https://nthaihoc.github/open-notes) là một không gian nhỏ mà tôi tạo ra chủ yếu là để tập hợp nhiều ghi chú và tài liệu phục vụ cho mục đích học tập, nghiên cứu à chia sẻ kiến thức.
+
+- [Research Notes (Ghi chú nghiên cứu)](/research/) - Tổng hợp các tài liệu, ghi chú và kết quả thực nghiệm liên quan đến phương pháp và kỹ thuật nghiên cứu.
+
+- [Course Notes (Ghi chú khóa học)](/courses/) - Sắp xếp và tổng hợp lại những ghi chú trong suốt quá trình nghiên cứu và học tập, sau đó biên soạn lại thành những khóa học ngắn gọn, dễ tiếp cận.
+
+- [Knowledge Base (Cơ sơ tri thức)](/notes/) - Bao gồm các kiến thực nền tảng và tài liệu tham khảo ở nhiều lĩnh vực khác nhau, được hệ thống hóa hỗ trợ cho việc học tập và nghiên cứu.
 
 🚀 Tôi hy vọng nơi đây sẽ trở thành một nguồn tài nguyên hữu ích – nơi bạn có thể tìm thấy điều mình đang tìm kiếm, hoặc đơn giản là cùng tôi học thêm điều mới mỗi ngày.
 
 ## ☎️ Liên hệ
 
-Bạn có thể kết nối với tôi qua những nền tảng dưới dây:
+Bạn có thể xem thêm thông tin hoặc kết nối với tôi qua những nền tảng dưới dây:
 
 | Kênh | Liên kết |
 |------|----------|
