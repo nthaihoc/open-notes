@@ -97,7 +97,7 @@ Ngoài ra, tôi quan tâm và đang mở rộng nghiên cứu trong các lĩnh v
 
 - Nghiên cứu các kỹ thuật AI tiên tiến như xử lý hình ảnh 3D, xe tự lái và xử lý dữ liệu lớn.
 
-🧠 [OpenNotes Hub (Ghi chú mở)](https://nthaihoc.github/open-notes) là một không gian nhỏ mà tôi tạo ra chủ yếu là để tập hợp nhiều ghi chú và tài liệu phục vụ cho mục đích học tập, nghiên cứu à chia sẻ kiến thức.
+🧠 [OpenNotes Hub (Ghi chú mở)](https://nthaihoc.github/open-notes) là một không gian nhỏ mà tôi tạo ra chủ yếu là để tập hợp nhiều ghi chú và tài liệu phục vụ cho mục đích học tập, nghiên cứu và chia sẻ kiến thức.
 
 - [Research Notes (Ghi chú nghiên cứu)](research/) - Tổng hợp các tài liệu, ghi chú và kết quả thực nghiệm liên quan đến phương pháp và kỹ thuật nghiên cứu.
 
@@ -113,7 +113,7 @@ Bạn có thể xem thêm thông tin hoặc kết nối với tôi qua những n
 
 | Kênh | Liên kết |
 |------|----------|
-| ✉️ *Email* | [thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com) |
-| 💬 *Facebook* | [facebook.com/nthaihoc02](https://facebook.com/nthaihoc02) |
-| 🌐 *Website cá nhân* | [nthaihoc.github.io/about-me](https://nthaihoc.github.io/about-me) |
-| 🗞️ *Google Scholar* | [scholar.google.com](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi) |
+| ✉️ Email | [thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com) |
+| 💬 Facebook | [facebook.com/nthaihoc02](https://facebook.com/nthaihoc02) |
+| 🌐 Website cá nhân | [nthaihoc.github.io/about-me](https://nthaihoc.github.io/about-me) |
+| 🗞️ Google Scholar | [scholar.google.com](https://scholar.google.com/citations?user=SvS3rssAAAAJ&hl=vi) |
