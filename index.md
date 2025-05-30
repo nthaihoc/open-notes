@@ -6,48 +6,49 @@
 </nav>
 
 <style>
-  .nav-container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 20px;
-    padding: 12px 0;
-    background-color: #fff;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
+.nav-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px; /* giảm khoảng cách giữa các nút */
+  padding: 8px 0; /* giảm padding trên dưới */
+  background-color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
+.nav-item {
+  padding: 6px 12px; /* giảm padding cho nhỏ gọn */
+  border: 2px solid transparent;
+  border-radius: 8px;
+  color: #555;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 4px; /* giảm khoảng cách icon - text */
+  background-color: #f5f5f5;
+  white-space: nowrap;
+  font-size: 14px; /* giảm cỡ chữ */
+}
+
+.nav-item:hover {
+  background-color: #007BFF;
+  color: white;
+  border-color: #0056b3;
+}
+
+.nav-item:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0,123,255,0.5);
+}
+
+@media (max-width: 480px) {
   .nav-item {
-    padding: 8px 16px;
-    border: 2px solid transparent;
-    border-radius: 8px;
-    color: #555;
-    text-decoration: none;
-    font-weight: 600;
-    transition: all 0.3s ease;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    background-color: #f5f5f5;
-    white-space: nowrap;
+    padding: 5px 8px;
+    font-size: 13px;
   }
-
-  .nav-item:hover {
-    background-color: #007BFF;
-    color: white;
-    border-color: #0056b3;
-  }
-
-  .nav-item:focus {
-    outline: none;
-    box-shadow: 0 0 0 3px rgba(0,123,255,0.5);
-  }
-
-  @media (max-width: 480px) {
-    .nav-item {
-      padding: 6px 10px;
-      font-size: 14px;
-    }
-  }
+}
 </style>
 
 <div style="
@@ -73,7 +74,7 @@
 > 🌾 *"What I cannot create, I do not understand"*
 
 ![Static Badge](https://img.shields.io/badge/Repo-Available-green?style=for-the-badge&logo=github&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Portfolio-Website-red?style=for-the-badge&logo=westernunion&logoColor=blue)
+[![Static Badge](https://img.shields.io/badge/Portfolio-Website-red?style=for-the-badge&logo=westernunion&logoColor=blue)](https://nthaihoc.github.io/about-me)
 ![Static Badge](https://img.shields.io/badge/Google-Scholar-orange?style=for-the-badge&logo=googlescholar&logoColor=blue)
 
 ![Static Badge](https://img.shields.io/badge/Facebook-nthaihoc02-pink?style=for-the-badge&logo=facebook&logoColor=blue)
@@ -98,11 +99,11 @@ Ngoài ra, tôi quan tâm và đang mở rộng nghiên cứu trong các lĩnh v
 
 🧠 [OpenNotes Hub (Ghi chú mở)](https://nthaihoc.github/open-notes) là một không gian nhỏ mà tôi tạo ra chủ yếu là để tập hợp nhiều ghi chú và tài liệu phục vụ cho mục đích học tập, nghiên cứu à chia sẻ kiến thức.
 
-- [Research Notes (Ghi chú nghiên cứu)](/research/) - Tổng hợp các tài liệu, ghi chú và kết quả thực nghiệm liên quan đến phương pháp và kỹ thuật nghiên cứu.
+- [Research Notes (Ghi chú nghiên cứu)](research/) - Tổng hợp các tài liệu, ghi chú và kết quả thực nghiệm liên quan đến phương pháp và kỹ thuật nghiên cứu.
 
-- [Course Notes (Ghi chú khóa học)](/courses/) - Sắp xếp và tổng hợp lại những ghi chú trong suốt quá trình nghiên cứu và học tập, sau đó biên soạn lại thành những khóa học ngắn gọn, dễ tiếp cận.
+- [Course Notes (Ghi chú khóa học)](courses/) - Sắp xếp và tổng hợp lại những ghi chú trong suốt quá trình nghiên cứu và học tập, sau đó biên soạn lại thành những khóa học ngắn gọn, dễ tiếp cận.
 
-- [Knowledge Base (Cơ sơ tri thức)](/notes/) - Bao gồm các kiến thực nền tảng và tài liệu tham khảo ở nhiều lĩnh vực khác nhau, được hệ thống hóa hỗ trợ cho việc học tập và nghiên cứu.
+- [Knowledge Base (Cơ sơ tri thức)](notes/) - Bao gồm các kiến thực nền tảng và tài liệu tham khảo ở nhiều lĩnh vực khác nhau, được hệ thống hóa hỗ trợ cho việc học tập và nghiên cứu.
 
 🚀 Tôi hy vọng nơi đây sẽ trở thành một nguồn tài nguyên hữu ích – nơi bạn có thể tìm thấy điều mình đang tìm kiếm, hoặc đơn giản là cùng tôi học thêm điều mới mỗi ngày.
 
