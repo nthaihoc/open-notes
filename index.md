@@ -10,14 +10,14 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 12px; /* giảm khoảng cách giữa các nút */
-  padding: 8px 0; /* giảm padding trên dưới */
+  gap: 12px; 
+  padding: 8px 0;
   background-color: #fff;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .nav-item {
-  padding: 6px 12px; /* giảm padding cho nhỏ gọn */
+  padding: 6px 12px; 
   border: 2px solid transparent;
   border-radius: 8px;
   color: #555;
@@ -26,10 +26,10 @@
   transition: all 0.3s ease;
   display: flex;
   align-items: center;
-  gap: 4px; /* giảm khoảng cách icon - text */
+  gap: 4px; 
   background-color: #f5f5f5;
   white-space: nowrap;
-  font-size: 14px; /* giảm cỡ chữ */
+  font-size: 14px; 
 }
 
 .nav-item:hover {
