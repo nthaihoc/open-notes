@@ -68,7 +68,7 @@
 ">
 </div>
 
-# 🫒 Knowlegde Base
+# 🫒 Knowledge Base
 
 > ⭐ "Live as if you were to die tomorrow. Learn as if you were to live forever"<br>
 > 💡 "Dreams don't work unless you do"
@@ -89,9 +89,10 @@ Trong quá trình nghiên cứu và tìm hiểu về lĩnh vực Trí tuệ nhâ
 
 Ngoài ra, tiếng Anh cũng là một kỹ năng không thể thiếu - không chỉ vì đây là ngôn ngữ toàn cầu của khoa học và công nghệ, mà còn là cánh cửa dẫn đến kho tri thức khổng lồ, các nghiên cứu cập nhật và cơ hội hợp tác chuyên môn quốc tế. Việc sử dụng tốt tiếng Anh giúp chúng ta tiếp cận nhanh chóng với những tiến bộ mới nhất và tham gia vào cộng đồng AI toàn cầu một cách chủ động hơn. Bên cạnh Tiếng Anh, các kỹ năng nền tảng như lập trình, tư duy toán học, khả năng phân tích dữ liệu và hiểu biết về hệ thống cũng đóng vai trò quan trọng trong việc phát triển toàn diện năng lực của một kỹ sư AI.
 
-Chính vì những lý do này, trong quá trình tìm tòi và học tập tôi đã cố gắng ghi chú lại một cách đầy đủ. Điều này không chỉ giúp tôi kiểm soát tiến độ cá nhân mà còn tạo điều kiện chia sẻ lại với cộng đồng. Toàn bộ nội dung được tôi tổng hợp trong [Knowlegde Base](../notes/) xoay quanh những chủ đề cốt lõi trong hành trình trở thành một AI Engineer - và xa hơn là Full-Stack AI Engineer.
+Chính vì những lý do này, trong quá trình tìm tòi và học tập tôi đã cố gắng ghi chú lại một cách đầy đủ. Điều này không chỉ giúp tôi kiểm soát tiến độ cá nhân mà còn tạo điều kiện chia sẻ lại với cộng đồng. Toàn bộ nội dung được tôi tổng hợp trong [Knowledge Base](../notes/) xoay quanh những chủ đề cốt lõi trong hành trình trở thành một AI Engineer - và xa hơn là Full-Stack AI Engineer.
 
 ## 📂 Chủ đề chính
 
-
-
+| STT | Chủ đề | Mô tả | Liên kết |
+| :---: | :--- | :----- | :---:   |
+| 1 | Basic English Knowledge (Kiến thức tiếng anh cơ bản) | Bao gồm kiến thức về từ vựng, ngữ pháp cơ bản | [![Static Badge](https://img.shields.io/badge/%F0%9F%8C%90-Open_Link-blue?style=flat&logoColor=orange)]() |

@@ -2,7 +2,7 @@
   <a href="../" class="nav-item">🏠 Home</a>
   <a href="../research/" class="nav-item">📝 Research Notes</a>
   <a href="../courses/" class="nav-item">🎓 Course Notes</a>
-  <a href=" " class="nav-item">📚 Knowledge Base</a>
+  <a href="../notes/" class="nav-item">📚 Knowledge Base</a>
 </nav>
 
 <style>

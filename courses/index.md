@@ -1,8 +1,8 @@
 <nav class="nav-container">
   <a href="../" class="nav-item">🏠 Home</a>
   <a href="../research/" class="nav-item">📝 Research Notes</a>
-  <a href="../courses/" class="nav-item">🎓 Course Notes</a>
-  <a href="" class="nav-item">📚 Knowledge Base</a>
+  <a href="" class="nav-item">🎓 Course Notes</a>
+  <a href="../notes/" class="nav-item">📚 Knowledge Base</a>
 </nav>
 
 <style>
@@ -89,7 +89,7 @@ Mỗi khóa học đều được chia thành từng chủ để nhỏ, mỗi ch
 
 | STT | Tên khóa học | Mô tả | Liên kết |
 | :---: | :----- | :------ | :-------: |
-| 1 | 🤖 Hands-on Machine Learning |  Học qua thực hành các kỹ thuật học máy cơ bản và nâng cao với scikit-learn và PyTorch | [[Link]](csml/) |
+| 1 | 🤖 Applied Machine Learning | Cung cấp kiến thức lý thuyết nền tảng về các mô hình học máy, kết hợp với hướng dẫn thực hành từng bước để xây dựng và triển khai mô hình từ đầu đến cuối | [[Link]](ml_course/) |
 | 2 | 📷 Computer Vision cơ bản | Tổng quan về xử lý ảnh, augmentation, và các kiến trúc CNN cơ bản | [[Link]](https://) |
 | 3 | 🔠 Large Language Models | Giới thiệu về LLMs, các mô hình nổi bật, ứng dụng và triển khai chúng từ đầu | [[Link]](https://) |
 
