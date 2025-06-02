@@ -85,21 +85,21 @@
 
 ## 💡 Tổng quan
 
-Trong quá trình nghiên cứu tại [Viện Khoa học và Công nghệ Ứng dụng (IAST)](https://iast.ictu.edu.vn), tôi đã có cơ hội tham gia vào nhiều dự án liên quan đến ứng dụng trí tuệ nhân tạo (AI) trong lĩnh vực chăm sóc sức khỏe và giáo dục. Trong các dự án này, tôi trực tiếp đảm nhiệm một số nhiệm vụ nghiên cứu và triển khai các giải pháp kỹ thuật.
+Trong quá trình nghiên cứu tại [**Viện Khoa học và Công nghệ Ứng dụng (IAST)**](https://iast.ictu.edu.vn), tôi đã có cơ hội tham gia vào nhiều dự án liên quan đến ứng dụng trí tuệ nhân tạo (AI) trong lĩnh vực chăm sóc sức khỏe và giáo dục. Trong các dự án này, tôi trực tiếp đảm nhiệm một số nhiệm vụ nghiên cứu và triển khai các giải pháp kỹ thuật.
 
-Mỗi dự án được chia thành nhiều chủ đề nhỏ nhằm mở rộng hướng tiếp cận và khai thác đa chiều bài toán thực tiễn. Toàn bộ các chủ đề cũng như báo cáo chi tiết về từng nhiệm vụ tôi đã thực hiện đều được hệ thống hóa và trình bày tại mục [Research Notes](../research/).
+Mỗi dự án được chia thành nhiều chủ đề nhỏ nhằm mở rộng hướng tiếp cận và khai thác đa chiều bài toán thực tiễn. Toàn bộ các chủ đề cũng như báo cáo chi tiết về từng nhiệm vụ tôi đã thực hiện đều được hệ thống hóa và trình bày tại mục [**Research Notes**](../research/).
 
 ## 🏷️ Chủ đề nghiên cứu
 
 | STT | Dự án | Chủ đề | Liên kết |
 | :----: | :---- | :--- | :---: |
-| 1 | 🏥 `Ứng dụng AI hỗ trợ bác sĩ trong phân loại ung thư cổ tử cung tế bào học` | Xây dựng và phát triển mô hình AI nhằm phân loại và hỗ trợ bác sĩ gán nhãn tự động | [[Link]]() |
+| 1 | 🏥 **Ứng dụng AI hỗ trợ bác sĩ trong phân loại ung thư cổ tử cung tế bào học** | Xây dựng và phát triển mô hình AI nhằm phân loại và hỗ trợ bác sĩ gán nhãn tự động | [[Link]]() |
 |   |                              | Sử dụng Vision Language Model (VLM) để triển khai ứng dụng VQA (hỏi & đáp) để tư vấn, giải đáp về ảnh tế bào học |  |
 | 2 | 🏫 **Ứng dụng công nghệ AI hỗ trợ giáo dục phổ thông (Ứng dụng hỗ trợ học và dạy tiếng Anh)** | Nghiên cứu bài toán Pronunciation Scoring - Chấm điểm phát âm tiếng Anh | [[Link]]() |
 
 ## 📋 Kế hoạch & Nhiệm vụ
 
-> 🏥 `Ứng dụng AI hỗ trợ bác sĩ trong phân loại ung thư cổ tử cung tế bào học`
+> 🏥 **Ứng dụng AI hỗ trợ bác sĩ trong phân loại ung thư cổ tử cung tế bào học**
 
 | No. | Dealine | Task | Status | Desciption | Resources |
 | :-: | :--: | :--- | :-: | :-- | :-: |
@@ -113,4 +113,4 @@ Mỗi dự án được chia thành nhiều chủ đề nhỏ nhằm mở rộng
 
 | No. | Dealine | Task | Status | Desciption | Resources |
 | :-: | :--: | :--- | :-: | :-- | :-: |
-| 01 |  |  |  |  |  |
+| 1 | 02/06 - 07/06, 2025 | Tìm hiểu tổng thể về Pronunciation Scoring | `In Progress` | - Tỉm hiểu về Pronunciation Scoring, một số thước đo đánh giá (Goodnees of Pronunciation - GOP, accuracy, intelligibiligy,..). <br> - Tìm hiểu về pipeline chung (speech -> feature extraction -> alignment -> scoring). <br> - Tổng hợp một số phương pháp xử lý tiếng nói và văn bản (truyền thống + hiện đại). <br> - Chọn lọc, đọc các tài liệu của những sản phẩm đã và đang được sử dụng như: Duolingo, Speechelo, ELSA, Google Pronuciation Tool,... |  |
