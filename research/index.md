@@ -93,13 +93,13 @@ Mỗi dự án được chia thành nhiều chủ đề nhỏ nhằm mở rộng
 
 | STT | Dự án | Chủ đề | Liên kết |
 | :----: | :---- | :--- | :---: |
-| 1 | 🏥 **`Ứng dụng AI hỗ trợ bác sĩ trong phân loại ung thư cổ tử cung tế bào học`** | Xây dựng và phát triển mô hình AI nhằm phân loại và hỗ trợ bác sĩ gán nhãn tự động | [[Link]]() |
+| 1 | 🏥 **Ứng dụng AI hỗ trợ bác sĩ trong phân loại ung thư cổ tử cung tế bào học** | Xây dựng và phát triển mô hình AI nhằm phân loại và hỗ trợ bác sĩ gán nhãn tự động | [[Link]]() |
 |   |                              | Sử dụng Vision Language Model (VLM) để triển khai ứng dụng VQA (hỏi & đáp) để tư vấn, giải đáp về ảnh tế bào học |  |
-| 2 | 🏫 **`Ứng dụng công nghệ AI hỗ trợ giáo dục phổ thông (Ứng dụng hỗ trợ học và dạy tiếng Anh)`** | Nghiên cứu bài toán Pronunciation Scoring - Chấm điểm phát âm tiếng Anh | [[Link]]() |
+| 2 | 🏫 **Ứng dụng công nghệ AI hỗ trợ giáo dục phổ thông (Ứng dụng hỗ trợ học và dạy tiếng Anh)** | Nghiên cứu bài toán Pronunciation Scoring - Chấm điểm phát âm tiếng Anh | [[Link]]() |
 
 ## 📋 Kế hoạch & Nhiệm vụ
 
-> 🏥 **`Ứng dụng AI hỗ trợ bác sĩ trong phân loại ung thư cổ tử cung tế bào học`**
+> 🏥 **Ứng dụng AI hỗ trợ bác sĩ trong phân loại ung thư cổ tử cung tế bào học**
 
 | No. | Dealine | Task | Status | Desciption | Resources |
 | :-: | :--: | :--- | :-: | :-- | :-: |
@@ -109,7 +109,7 @@ Mỗi dự án được chia thành nhiều chủ đề nhỏ nhằm mở rộng
 
 <br>
 
-> 🏫 **`Ứng dụng công nghệ AI hỗ trợ giáo dục phổ thông (Ứng dụng hỗ trợ học và dạy tiếng Anh)`**
+> 🏫 **Ứng dụng công nghệ AI hỗ trợ giáo dục phổ thông (Ứng dụng hỗ trợ học và dạy tiếng Anh)**
 
 | No. | Dealine | Task | Status | Desciption | Resources |
 | :-: | :--: | :--- | :-: | :-- | :-: |
