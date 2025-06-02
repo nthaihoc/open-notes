@@ -78,6 +78,7 @@
 [![PyTorch](https://img.shields.io/badge/pytorch-framework-yellow?style=for-the-badge&logo=pytorch&logoColor=brown)](https://pytorch.org)
 [![MLFlow](https://img.shields.io/badge/MLflow-tracking-blue?style=for-the-badge&logo=mlflow&logoColor=blue)](https://mlflow.org)
 [![NumPy](https://img.shields.io/badge/NumPy-library-purple?style=for-the-badge&logo=numpy&logoColor=blue)](https://numpy.org)
+
 [![HuggingFace](https://img.shields.io/badge/hugging_face-framework-pink?style=for-the-badge&logo=huggingface&logoColor=yellow)](https://huggingface.co)
 [![Pandas](https://img.shields.io/badge/pandas-framework-brown?style=for-the-badge&logo=pandas&logoColor=purple)](https://pandas.pydata.org)
 [![Google Colab](https://img.shields.io/badge/google-colab-green?style=for-the-badge&logo=googlecolab&logoColor=orange)](https://colab.research.google.com)
@@ -92,7 +93,7 @@ Mỗi dự án được chia thành nhiều chủ đề nhỏ nhằm mở rộng
 
 | STT | Dự án | Chủ đề | Liên kết |
 | :----: | :---- | :--- | :---: |
-| 1 | `🏥 Ứng dụng AI hỗ trợ bác sĩ trong phân loại ung thư cổ tử cung tế bào học` | Xây dựng và phát triển mô hình AI nhằm phân loại và hỗ trợ bác sĩ gán nhãn tự động | [[Link]]() |
+| 1 | **`🏥 Ứng dụng AI hỗ trợ bác sĩ trong phân loại ung thư cổ tử cung tế bào học`** | Xây dựng và phát triển mô hình AI nhằm phân loại và hỗ trợ bác sĩ gán nhãn tự động | [[Link]]() |
 |   |                              | Sử dụng Vision Language Model (VLM) để triển khai ứng dụng VQA (hỏi & đáp) để tư vấn, giải đáp về ảnh tế bào học |  |
 | 2 | `🏫 Ứng dụng công nghệ AI hỗ trợ giáo dục phổ thông (Ứng dụng hỗ trợ học và dạy tiếng Anh)` | Nghiên cứu bài toán Pronunciation Scoring - Chấm điểm phát âm tiếng Anh | [[Link]]() |
 
@@ -106,7 +107,10 @@ Mỗi dự án được chia thành nhiều chủ đề nhỏ nhằm mở rộng
 | 2 | 02/2025 - 05/2025 | Nghiên cứu nền tảng & định hướng về Self-Supervised Learning (Học tự giám sát) | ✅ | - Nghiên cứu tổng quan về Self-Supervised Learning (SSL). <br> - Tìm hiểu về một số mô hình SSL phổ biến: BYOL, MoCo, SimCLR. <br> - Phân tích, đi sâu vào kiến trúc của mô hình SimCLR (backbone, loss function, augmentation & projection head, v.v.). | [[Paper]]() [[Notes]]() |
 | 3 | 02/2025 - 05/2025 | Cài đặt & triển khai mô hình SimCLR | ✅ | - Cài đặt kiến trúc SimCLR, đánh giá tính phù hợp và huấn luyện cho bài toán phân loại tế bào học. <br> - Lên phương án thực nghiệm nhanh, đánh giá kết quả sơ bộ và lên kế hoạch điều chỉnh. <br> - Tối ưu hóa và mở rộng tinh chỉnh, gia tăng hiệu suất cho mô hình. | [[Notes]]() [[Code]]() |
 
+<br>
+
 > `🏫 Ứng dụng công nghệ AI hỗ trợ giáo dục phổ thông (Ứng dụng hỗ trợ học và dạy tiếng Anh)`
 
 | No. | Dealine | Task | Status | Desciption | Resources |
 | :-: | :--: | :--- | :-: | :-- | :-: |
+| 01 |  |  |  |  |  |
