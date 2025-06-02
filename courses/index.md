@@ -88,18 +88,18 @@ Mỗi khóa học đều được chia thành từng chủ để nhỏ, mỗi ch
 
 | STT | Tên khóa học | Mô tả | Liên kết |
 | :---: | :----- | :------ | :-------: |
-| 1 | 🤖 Applied Machine Learning | Cung cấp kiến thức lý thuyết nền tảng về các mô hình học máy, kết hợp với hướng dẫn thực hành từng bước để xây dựng và triển khai mô hình từ đầu đến cuối | [[Link]](ml_course/) |
-| 2 | 📷 Computer Vision cơ bản | Tổng quan về xử lý ảnh, augmentation, và các kiến trúc CNN cơ bản | [[Link]](https://) |
-| 3 | 🔠 Large Language Models | Giới thiệu về LLMs, các mô hình nổi bật, ứng dụng và triển khai chúng từ đầu | [[Link]](https://) |
+| 1 | `🤖 Applied Machine Learning` | Cung cấp kiến thức lý thuyết nền tảng về các mô hình học máy, kết hợp với hướng dẫn thực hành từng bước để xây dựng và triển khai mô hình từ đầu đến cuối | [[Link]](ml_course/) |
+| 2 | `📷 Computer Vision Foundations` | Tổng quan về xử lý ảnh, augmentation, và các kiến trúc CNN cơ bản | [[Link]](https://) |
+| 3 | `🔠 Large Language Models` | Giới thiệu về LLMs, các mô hình nổi bật, ứng dụng và triển khai chúng từ đầu | [[Link]](https://) |
 
-## 💬 Góp ý & Đóng góp
+## 📬 Đóng góp & Góp ý
 
-Những kiến thức trên toàn bộ website này đều là sự nhìn nhận, tổng hợp mang thiên hướng cá nhân. Do vậy, không thể tránh khỏi những sai sót, hạn chế. Tôi luôn mong muốn cải thiện và mở rộng nội dung tại đây. Nếu bạn có bất kỳ góp ý, câu hỏi, hay đề xuất nào hãy để lại cho tôi những lời góp ý, giúp nội dung bài học được cải thiện hơn, có nhiều góc nhìn hơn.
+Tất cả nội dung trên website này là kết quả của quá trình tự học, nghiên cứu và tổng hợp dưới góc nhìn cá nhân. Do đó, không thể tránh khỏi những thiếu sót hoặc cách diễn đạt còn hạn chế. Tôi luôn mong muốn cải thiện và mở rộng nội dung tại đây để phục vụ tốt hơn cho cộng đồng.
 
-Bạn có thể góp ý trực tiếp thông qua một số cách dưới đây:
+Nếu bạn có góp ý, câu hỏi, hoặc đề xuất nào giúp cải thiện chất lượng nội dung, hãy chia sẻ với tôi qua một trong các cách dưới đây:
 
 - Email: [thaihoc.ictu@gmail.com](mailto:thaihoc.ictu@gmail.com)
+- Tạo Issue tại: [github.com/nthaihoc/open-notes/issues](https://github.com/nthaihoc/open-notes/issues)
+- Gửi Pull Request tại: [github.com/nthaihoc/open-notes/pulls](https://github.com/nthaihoc/open-notes/pulls)
 
-- Mở issue trên GitHub
-
-- Hoặc gửi pull request nếu bạn muốn trực tiếp đóng góp!
+Mọi đóng góp, dù nhỏ nhất, đều vô cùng quý giá. Cảm ơn bạn đã đồng hành!

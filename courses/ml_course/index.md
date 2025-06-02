@@ -1,53 +1,54 @@
 <nav class="nav-container">
   <a href="../../" class="nav-item">🏠 Home</a>
   <a href="../../research/" class="nav-item">📝 Research Notes</a>
-  <a href="../../courses/" class="nav-item">🎓 Course Notes</a>
+  <a href="../" class="nav-item">🎓 Course Notes</a>
   <a href="../../notes/" class="nav-item">📚 Knowledge Base</a>
 </nav>
 
 <style>
-  .nav-container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 20px;
-    padding: 12px 0;
-    background-color: #fff;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
+.nav-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px; 
+  padding: 8px 0;
+  background-color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
+.nav-item {
+  padding: 6px 12px; 
+  border: 2px solid transparent;
+  border-radius: 8px;
+  color: #555;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 4px; 
+  background-color: #f5f5f5;
+  white-space: nowrap;
+  font-size: 14px; 
+}
+
+.nav-item:hover {
+  background-color: #007BFF;
+  color: white;
+  border-color: #0056b3;
+}
+
+.nav-item:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0,123,255,0.5);
+}
+
+@media (max-width: 480px) {
   .nav-item {
-    padding: 8px 16px;
-    border: 2px solid transparent;
-    border-radius: 8px;
-    color: #555;
-    text-decoration: none;
-    font-weight: 600;
-    transition: all 0.3s ease;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    background-color: #f5f5f5;
-    white-space: nowrap;
+    padding: 5px 8px;
+    font-size: 13px;
   }
-
-  .nav-item:hover {
-    background-color: #007BFF;
-    color: white;
-    border-color: #0056b3;
-  }
-
-  .nav-item:focus {
-    outline: none;
-    box-shadow: 0 0 0 3px rgba(0,123,255,0.5);
-  }
-
-  @media (max-width: 480px) {
-    .nav-item {
-      padding: 6px 10px;
-      font-size: 14px;
-    }
-  }
+}
 </style>
 
 <div style="
@@ -67,8 +68,7 @@
 ">
 </div>
 
-# 🌲 Applied Machine Learning Course - Khóa học Ứng dụng Học máy
-> Học sâu - Làm thật - Ứng dụng thực tiễn
+# 🍁 Applied Machine Learning
 
 [![Static Badge](https://img.shields.io/badge/CS229-Machine_Learning-purple?style=flat&logo=coursera&logoColor=white)](https://) [![Static Badge](https://img.shields.io/badge/Geekfor-Geeks-Silver?style=flat&logo=geeksforgeeks&logoColor=red)](https://) [![Static Badge](https://img.shields.io/badge/Google-Colab-red?style=flat&logo=googlecolab&logoColor=orange)](https://) [![Static Badge](https://img.shields.io/badge/Tensorflow-docs-tavily?logo=tensorflow&logoColor=orange)]([https://](https://www.tensorflow.org/))
 
