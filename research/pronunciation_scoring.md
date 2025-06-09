@@ -8,10 +8,9 @@
 
 ## 📋 Content
 
-- [Content](#content)
-- [Timeline](#timeline)
-- [Datasets](#datasets)
-- [Benchmarks for Pronunciation Scoring Datasets](#benchmarks-for-pronunciation-scoring-datasets)
+- [Timeline](#-timeline)
+- [Datasets](#-datasets)
+- [Benchmarks for Pronunciation Scoring Datasets](#-benchmarks-for-pronunciation-scoring-datasets)
 
 ## ⏳ Timeline
 
@@ -46,11 +45,9 @@
 | 03 |  |  | SpeechBlender + LSTM | 0.63 | Tạo dữ liệu lỗi giả lập + LSTM để chấm điểm | [Paper](https://arxiv.org/pdf/2211.00923v3) |
 | 04 |  |  | HiPAMA-LibriSpeech | 0.62 | Áp dụng attention để đánh giá phát âm theo cấu trúc phân cấp | [Paper](https://arxiv.org/pdf/2211.08102v2) |
 | 05 |  |  | GOP | 0.45 | Phương pháp truyền thống | [Paper]() | 
-| | | | | | | |
 | 01 | `Speechocean762` |  Word-level | 3MH | 0.69 | | [Paper](https://arxiv.org/pdf/2305.18146v4) |
 | 02 | | | GOPT-PAII | 0.60 | | [Paper](https://arxiv.org/pdf/2205.03432v1) |
 | 03 | | | HiPAMA-Librispeech | 0.59 | | [Paper](https://arxiv.org/pdf/2211.08102v2) |
-| | | | | | | |
 | 01 | `Speechocean762` | Utterance-level | 3MH | 0.81 | | [Paper](https://arxiv.org/pdf/2305.18146v4) |
 | 02 | | | HierCB+ConPCO | 0.80 | | [Paper](https://paperswithcode.com/paper/conpco-preserving-phoneme-characteristics-for) |
 | 03 | | | GOPT-Librispeech | 0.74 | | [Paper]() |
