@@ -85,34 +85,14 @@
 
 ## 💡 Tổng quan
 
-Trong quá trình nghiên cứu tại [**Viện Khoa học và Công nghệ Ứng dụng (IAST)**](https://iast.ictu.edu.vn), tôi đã có cơ hội tham gia vào nhiều dự án liên quan đến ứng dụng trí tuệ nhân tạo (AI) trong lĩnh vực chăm sóc sức khỏe và giáo dục. Trong các dự án này, tôi trực tiếp đảm nhiệm một số nhiệm vụ nghiên cứu và triển khai các giải pháp kỹ thuật.
+Trong quá trình nghiên cứu tại [Viện Khoa học và Công nghệ Ứng dụng (IAST)](https://iast.ictu.edu.vn), tôi đã có cơ hội tham gia vào nhiều dự án liên quan đến ứng dụng trí tuệ nhân tạo (AI) trong lĩnh vực chăm sóc sức khỏe và giáo dục. Trong các dự án này, tôi trực tiếp đảm nhiệm một số nhiệm vụ nghiên cứu và triển khai các giải pháp kỹ thuật.
 
-Mỗi dự án được chia thành nhiều chủ đề nhỏ nhằm mở rộng hướng tiếp cận và khai thác đa chiều bài toán thực tiễn. Toàn bộ các chủ đề cũng như báo cáo chi tiết về từng nhiệm vụ tôi đã thực hiện đều được hệ thống hóa và trình bày tại mục [**Research Notes**](../research/).
+Mỗi dự án được chia thành nhiều chủ đề nhỏ nhằm mở rộng hướng tiếp cận và khai thác đa chiều bài toán thực tiễn. Toàn bộ các chủ đề cũng như báo cáo chi tiết về từng nhiệm vụ tôi đã thực hiện đều được hệ thống hóa và trình bày tại mục [Research Notes](../research/).
 
 ## 🏷️ Chủ đề nghiên cứu
 
-| STT | Dự án | Chủ đề | Liên kết |
-| :----: | :---- | :--- | :---: |
-| 1 | 🏥 **Ứng dụng AI hỗ trợ bác sĩ trong phân loại ung thư cổ tử cung tế bào học** | Xây dựng và phát triển mô hình AI nhằm phân loại và hỗ trợ bác sĩ gán nhãn tự động | [[Link]]() |
-|   |                              | Sử dụng Vision Language Model (VLM) để triển khai ứng dụng VQA (hỏi & đáp) để tư vấn, giải đáp về ảnh tế bào học |  |
-| 2 | 🏫 **Ứng dụng công nghệ AI hỗ trợ giáo dục phổ thông (Ứng dụng hỗ trợ học và dạy tiếng Anh)** | Nghiên cứu bài toán Pronunciation Scoring - Chấm điểm phát âm tiếng Anh | [[Link]]() |
-
-## 📋 Kế hoạch & Nhiệm vụ
-
-> 🏥 **Ứng dụng AI hỗ trợ bác sĩ trong phân loại ung thư cổ tử cung tế bào học**
-
-| No. | Dealine | Task | Status | Desciption | Resources |
-| :-: | :--: | :--- | :-: | :-- | :-: |
-| 1 | 08/2024 - 11/2024 | Nghiên cứu kỹ thuật Ensemble Learning cho bộ dữ liệu ung thư cổ tử cung tế bào học | ✅ | - Nghiên cứu kỹ thuật Ensemble Learning và các phương pháp liên quan. <br> - Thực nghiệm kỹ thuật Ensemble Learning cho bộ dữ liệu thực tế. <br> - Triển khai đánh giá và cài đặt huấn luyện nhằm so sánh hiệu suất giữa mô hình đơn lẻ và mô hình kết hợp. | [[Paper]]() [[Code]]() |
-| 2 | 02/2025 - 05/2025 | Nghiên cứu nền tảng & định hướng về Self-Supervised Learning (Học tự giám sát) | ✅ | - Nghiên cứu tổng quan về Self-Supervised Learning (SSL). <br> - Tìm hiểu về một số mô hình SSL phổ biến: BYOL, MoCo, SimCLR. <br> - Phân tích, đi sâu vào kiến trúc của mô hình SimCLR (backbone, loss function, augmentation & projection head, v.v.). | [[Paper]]() [[Notes]]() |
-| 3 | 02/2025 - 05/2025 | Cài đặt & triển khai mô hình SimCLR | ✅ | - Cài đặt kiến trúc SimCLR, đánh giá tính phù hợp và huấn luyện cho bài toán phân loại tế bào học. <br> - Lên phương án thực nghiệm nhanh, đánh giá kết quả sơ bộ và lên kế hoạch điều chỉnh. <br> - Tối ưu hóa và mở rộng tinh chỉnh, gia tăng hiệu suất cho mô hình. | [[Notes]]() [[Code]]() |
-
-<br>
-
-> 🏫 **Ứng dụng công nghệ AI hỗ trợ giáo dục phổ thông (Ứng dụng hỗ trợ học và dạy tiếng Anh)**
->
-> [Link](pronunciation_scoring.md)
-
-| No. | Dealine | Task | Status | Desciption | Resources |
-| :-: | :--: | :--- | :-: | :-- | :-: |
-| 1 | 02/06 - 07/06, 2025 | Tìm hiểu tổng thể về Pronunciation Scoring | `In Progress` | - Tỉm hiểu về Pronunciation Scoring, một số thước đo đánh giá (Goodnees of Pronunciation - GOP, accuracy, intelligibiligy,..). <br> - Tìm hiểu về pipeline chung (speech -> feature extraction -> alignment -> scoring). <br> - Tổng hợp một số phương pháp xử lý tiếng nói và văn bản (truyền thống + hiện đại). <br> - Chọn lọc, đọc các tài liệu của những sản phẩm đã và đang được sử dụng như: Duolingo, Speechelo, ELSA, Google Pronuciation Tool,... | |
+| No. | Project | Status | Key Task | Link |
+| :-: | :------ | :----- | :------- | :--: |
+|  1  | `🏥 Ứng dụng AI hỗ trợ bác sĩ trong phân loại ung thư cổ tử cung tế bào học` | In Progress | Xây dựng và phát triển mô hình AI hỗ trợ phân loại và hỗ trợ các bác sĩ gán nhãn tự động | [[Link]](cervical_cancer_classification/index.md) |
+|  2  | `🏫 Ứng dụng công nghệ AI hỗ trợ giáo dục phổ thông (Ứng dụng hỗ trợ học và dạy tiếng Anh)` | In Progress | Nghiên cứu các kỹ thuật và phương pháp cho bài toán Pronunciation Scoring (PS) - Chấm điểm phát âm tiếng Anh cho người Việt | [[Link]](pronunciation_scoring/index.md) |
+|  3  | `💊 Ứng dụng AI hỗ trợ y học` | In Comming | Nghiên cứu phát triển hệ thống AI hỗ trợ bác sĩ trong quá trình quản lý, đưa ra tư vấn v.v, liên quan đến thuốc | [[Link]]() |
