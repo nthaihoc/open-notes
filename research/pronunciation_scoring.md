@@ -1,4 +1,4 @@
-# The problem of Pronunciation Scoring (PS)
+# 🌵 The problem of Pronunciation Scoring (PS)
 
 > 🎯 Mục tiêu cụ thể: Xây dựng hệ thống chấm điểm hoặc phát hiện lỗi phát âm tiếng Anh dành cho người học. <br>
 > 📌 Hướng tiếp cận đề xuất: <br>
@@ -6,14 +6,14 @@
 > - Chấm điểm phát âm (pronunciation scoring)
 > - Phản hồi sửa lỗi (diagnosis & feedback)
 
-## Content
+## 📋 Content
 
 - [Content](#content)
 - [Timeline](#timeline)
 - [Datasets](#datasets)
 - [Benchmarks for Pronunciation Scoring Datasets](#benchmarks-for-pronunciation-scoring-datasets)
 
-## Timeline
+## ⏳ Timeline
 
 | Phase | Deadline | Task | Description | Resource |
 | :---: | :------: | :--- | :---------- | :------: |
@@ -29,7 +29,7 @@
 | | | Week02 & Week03: Kiểm thử với các phàn hồi thực tế | - Thu thập phản hồi để đánh giá và cải thiện, tinh chỉnh thêm mô hình hoặc hệ thống. <br> - Tổng hợp các góp ý để lên kế hoạch nâng cấp hoặc chỉnh sửa. | |
 | | | Week04: Tổng kết và báo cáo kết quả | - Đánh giá tổng quan về hiệu quả của hệ thống và những hạn chế còn tồn tại. <br> - Viết báo cáo kỹ thuật tổng hợp kết quả nghiên cứu và triển khai hệ thống thực tế. <br> - Đề xuất hướng cải thiện tiếp theo. | |
 
-## Datasets
+## 🛢️ Datasets
 
 | No. | Name | Details | Link |
 | :-: | :--: | :------ | :--: |
@@ -37,7 +37,7 @@
 | 02  | `L2-ARCTIC`| - Bộ dữ liệu gồm 26.867 câu thoại của 24 người không phải bản địa, có cân bằng giới tính. <br> - Tổng 27 giờ âm thanh và có gán nhãn lỗi phát âm (thay âm, thiếu âm, thêm âm) | [l2-arctic](https://psi.engr.tamu.edu/l2-arctic-corpus/) |
 | 03 | `LibriSpeech` | - Bộ dữ liệu lớn gần 1000 giờ gồm các đoạn ghi âm sách nói tiếng Anh. <br> - Được chia thành hai type chính (clean và other), trong đó clean được cho là dễ dàng nhận dạng hơn còn other có tiềng ồn và khó nhận biết hơn. | [librispeech](https://www.openslr.org/12/) |
 
-## Benchmarks for Pronunciation Scoring Datasets
+## ⚔️ Benchmarks for Pronunciation Scoring Datasets
 
 | No. | Dataset | Task | Model | PCC | Notes | Resources |
 | :-: | :-----: | :--: | :---- | :-: | :---- |:-------: |
