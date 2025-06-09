@@ -33,11 +33,25 @@
 
 | No. | Name | Details | Link |
 | :-: | :--: | :------ | :--: |
-| 01  | `Speechocean762` | - Tập dữ liệu giọng nói phục vụ cho bài toán đánh giá phát âm. <br> - Gồm 5000 câu tiếng Anh được phát âm bởi 250 người không phải bản địa, trong đó một nửa là trẻ em. Nhãn được các chuyên gia ngôn ngữ đánh giá ở ba cấp độ: cấp câu (sentence-level), cấp từ (word-level), cấp âm vị (phoneme-level). | [speechocean762](https://huggingface.co/datasets/mispeech/speechocean762) |
+| 01  | `Speechocean762` | - Tập dữ liệu giọng nói phục vụ cho bài toán đánh giá phát âm. <br> - Gồm 5000 câu tiếng Anh được phát âm bởi 250 người không phải bản địa, trong đó một nửa là trẻ em. Nhãn được các chuyên gia ngôn ngữ đánh giá ở ba cấp độ: cấp câu (sentence-level), cấp từ (word-level), cấp âm vị (phoneme-level).| [speechocean762](https://huggingface.co/datasets/mispeech/speechocean762) |
 | 02  | `L2-ARCTIC`| - Bộ dữ liệu gồm 26.867 câu thoại của 24 người không phải bản địa, có cân bằng giới tính. <br> - Tổng 27 giờ âm thanh và có gán nhãn lỗi phát âm (thay âm, thiếu âm, thêm âm) | [l2-arctic](https://psi.engr.tamu.edu/l2-arctic-corpus/) |
 | 03 | `LibriSpeech` | - Bộ dữ liệu lớn gần 1000 giờ gồm các đoạn ghi âm sách nói tiếng Anh. <br> - Được chia thành hai type chính (clean và other), trong đó clean được cho là dễ dàng nhận dạng hơn còn other có tiềng ồn và khó nhận biết hơn. | [librispeech](https://www.openslr.org/12/) |
 
 ## Benchmarks for Pronunciation Scoring Datasets
 
-
-
+| No. | Dataset | Task | Model | PCC | Notes | Resources |
+| :-: | :-----: | :--: | :---- | :-: | :---- |:-------: |
+| 01 | `Speechocean762` | Phone-level | HierCB+ConPCO | 0.70 | Sử dụng contrastive learning & orginal regression để cải thiện độ chính xác | [Paper](https://paperswithcode.com/paper/conpco-preserving-phoneme-characteristics-for) |
+| 02 |  |  | GOPT-PAII  | 0.68 | Sử dụng mô hình transformer cho phân tích về nhiều khía cạnh tiếng nói | [Paper](https://arxiv.org/pdf/2205.03432v1) |
+| 03 |  |  | SpeechBlender + LSTM | 0.63 | Tạo dữ liệu lỗi giả lập + LSTM để chấm điểm | [Paper](https://arxiv.org/pdf/2211.00923v3) |
+| 04 |  |  | HiPAMA-LibriSpeech | 0.62 | Áp dụng attention để đánh giá phát âm theo cấu trúc phân cấp | [Paper](https://arxiv.org/pdf/2211.08102v2) |
+| 05 |  |  | GOP | 0.45 | Phương pháp truyền thống | [Paper]() | 
+| | | | | | | |
+| 01 | `Speechocean762` |  Word-level | 3MH | 0.69 | | [Paper](https://arxiv.org/pdf/2305.18146v4) |
+| 02 | | | GOPT-PAII | 0.60 | | [Paper](https://arxiv.org/pdf/2205.03432v1) |
+| 03 | | | HiPAMA-Librispeech | 0.59 | | [Paper](https://arxiv.org/pdf/2211.08102v2) |
+| | | | | | | |
+| 01 | `Speechocean762` | Utterance-level | 3MH | 0.81 | | [Paper](https://arxiv.org/pdf/2305.18146v4) |
+| 02 | | | HierCB+ConPCO | 0.80 | | [Paper](https://paperswithcode.com/paper/conpco-preserving-phoneme-characteristics-for) |
+| 03 | | | GOPT-Librispeech | 0.74 | | [Paper]() |
+| 04 | | | GOPT-PAII | 0.73 | | [Paper](https://arxiv.org/pdf/2205.03432v1) |
