@@ -9,8 +9,8 @@
 ## 📋 Content
 
 - [Timeline](#-timeline)
-- [Datasets](#-datasets)
-- [Benchmarks for Pronunciation Scoring Datasets](#-benchmarks-for-pronunciation-scoring-datasets)
+- [Datasets](#️-datasets)
+- [Benchmarks for Pronunciation Scoring Datasets](#️-benchmarks-for-pronunciation-scoring-datasets)
 
 ## ⏳ Timeline
 
