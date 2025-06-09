@@ -84,7 +84,7 @@
 
 ## 👀 Về tôi
 
-👋 Xin chào! Tôi là [**Nguyễn Thái Học**](https://nthaihoc.github.io/about-me) - kỹ sư và nhà nghiên cứu Trí tuệ nhân tạo (Artificial Intelligence - AI) tại [**Viện Khoa học & Công nghệ Ứng dụng (IAST)**](https://iast.ictu.edu.vn), trực thuộc [**Trường Đại học Công nghệ Thông tin & Truyền thông (ICTU)**](https://ictu.edu.vn). 
+👋 Xin chào! Tôi là [Nguyễn Thái Học](https://nthaihoc.github.io/about-me) - kỹ sư và nhà nghiên cứu Trí tuệ nhân tạo (Artificial Intelligence - AI) tại [Viện Khoa học & Công nghệ Ứng dụng (IAST)](https://iast.ictu.edu.vn), trực thuộc [Trường Đại học Công nghệ Thông tin & Truyền thông (ICTU)](https://ictu.edu.vn). 
 
 Tôi bắt đầu theo học chương trình kỹ sư chuyên nghành Khoa học dữ liệu & Trí tuệ nhân tạo (Data Science & Artificial Intelligence) tại ICTU vào năm 2020 và dự kiến tốt nghiệp vào năm 2025. Niềm đam mê với AI của tôi chỉ thực sự bùng nổ vào cuối năm thứ ba đại học, khi tôi bắt đầu tiếp cận sâu hơn các môn học chuyên nghành.
 
@@ -98,7 +98,7 @@ Ngoài ra, tôi quan tâm và đang mở rộng nghiên cứu trong các lĩnh v
 
 - Nghiên cứu các kỹ thuật AI tiên tiến như xử lý hình ảnh 3D, xe tự lái và xử lý dữ liệu lớn.
 
-🧠 [**OpenNotes Hub (Ghi chú mở)**](https://nthaihoc.github.io/open-notes) là một không gian nhỏ mà tôi tạo ra chủ yếu là để tập hợp nhiều ghi chú và tài liệu phục vụ cho mục đích học tập, nghiên cứu và chia sẻ kiến thức.
+🧠 [**`OpenNotes Hub (Ghi chú mở)`**](https://nthaihoc.github.io/open-notes) là một không gian nhỏ mà tôi tạo ra chủ yếu là để tập hợp nhiều ghi chú và tài liệu phục vụ cho mục đích học tập, nghiên cứu và chia sẻ kiến thức.
 
 - [**Research Notes (Ghi chú nghiên cứu)**](research/) - Tổng hợp các tài liệu, ghi chú và kết quả thực nghiệm liên quan đến phương pháp và kỹ thuật nghiên cứu.
 

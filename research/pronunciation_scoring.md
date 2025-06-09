@@ -28,7 +28,7 @@
 | | | Week02 & Week03: Kiểm thử với các phàn hồi thực tế | - Thu thập phản hồi để đánh giá và cải thiện, tinh chỉnh thêm mô hình hoặc hệ thống. <br> - Tổng hợp các góp ý để lên kế hoạch nâng cấp hoặc chỉnh sửa. | |
 | | | Week04: Tổng kết và báo cáo kết quả | - Đánh giá tổng quan về hiệu quả của hệ thống và những hạn chế còn tồn tại. <br> - Viết báo cáo kỹ thuật tổng hợp kết quả nghiên cứu và triển khai hệ thống thực tế. <br> - Đề xuất hướng cải thiện tiếp theo. | |
 
-## 🛢️ Datasets
+## 🛢️ Datasets 
 
 | No. | Name | Details | Link |
 | :-: | :--: | :------ | :--: |
@@ -52,3 +52,4 @@
 | 02 | | | HierCB+ConPCO | 0.80 | | [Paper](https://paperswithcode.com/paper/conpco-preserving-phoneme-characteristics-for) |
 | 03 | | | GOPT-Librispeech | 0.74 | | [Paper]() |
 | 04 | | | GOPT-PAII | 0.73 | | [Paper](https://arxiv.org/pdf/2205.03432v1) |
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
