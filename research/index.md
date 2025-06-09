@@ -110,7 +110,9 @@ Mỗi dự án được chia thành nhiều chủ đề nhỏ nhằm mở rộng
 <br>
 
 > 🏫 **Ứng dụng công nghệ AI hỗ trợ giáo dục phổ thông (Ứng dụng hỗ trợ học và dạy tiếng Anh)**
+>
+> [Link](pronunciation_scoring.md)
 
 | No. | Dealine | Task | Status | Desciption | Resources |
 | :-: | :--: | :--- | :-: | :-- | :-: |
-| 1 | 02/06 - 07/06, 2025 | Tìm hiểu tổng thể về Pronunciation Scoring | `In Progress` | - Tỉm hiểu về Pronunciation Scoring, một số thước đo đánh giá (Goodnees of Pronunciation - GOP, accuracy, intelligibiligy,..). <br> - Tìm hiểu về pipeline chung (speech -> feature extraction -> alignment -> scoring). <br> - Tổng hợp một số phương pháp xử lý tiếng nói và văn bản (truyền thống + hiện đại). <br> - Chọn lọc, đọc các tài liệu của những sản phẩm đã và đang được sử dụng như: Duolingo, Speechelo, ELSA, Google Pronuciation Tool,... |  |
+| 1 | 02/06 - 07/06, 2025 | Tìm hiểu tổng thể về Pronunciation Scoring | `In Progress` | - Tỉm hiểu về Pronunciation Scoring, một số thước đo đánh giá (Goodnees of Pronunciation - GOP, accuracy, intelligibiligy,..). <br> - Tìm hiểu về pipeline chung (speech -> feature extraction -> alignment -> scoring). <br> - Tổng hợp một số phương pháp xử lý tiếng nói và văn bản (truyền thống + hiện đại). <br> - Chọn lọc, đọc các tài liệu của những sản phẩm đã và đang được sử dụng như: Duolingo, Speechelo, ELSA, Google Pronuciation Tool,... | |
