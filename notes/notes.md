@@ -93,6 +93,7 @@ Chính vì những lý do này, trong quá trình tìm tòi và học tập tôi
 
 ## 📂 Chủ đề chính
 
-| STT | Chủ đề | Mô tả | Liên kết |
-| :---: | :--- | :----- | :---:   |
-| 1 | Basic English Knowledge (Kiến thức tiếng anh cơ bản) | Bao gồm kiến thức về từ vựng, ngữ pháp cơ bản | [![Static Badge](https://img.shields.io/badge/%F0%9F%8C%90-Open_Link-blue?style=flat&logoColor=orange)]() |
+| No. | Topic | Status | Details | Link |
+| :-: | :---- | :----: | :------ | :--: |
+|  1  | Basic English Knowledge | In progress | Bao gồm kiến thức cơ bản về từ vựng, ngữ pháp | [[Link]]() |
+
