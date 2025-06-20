@@ -20,9 +20,9 @@ Tôi bắt đầu theo học chương trình kỹ sư chuyên nghành Khoa học
 
 Tháng 08/2024, tôi tham gia nghiên cứu tại Viện IAST với vai trò thực tập sinh thị giác máy tính (Computer Vision Intern). Tại đây, tôi vừa củng cố kiến thức nền tảng vừa trực tiếp nghiên cứu và phát triển một số ứng dụng AI trong lĩnh vực chăm sóc sức khỏe (healthcare) và giáo dục (education).
 
-🏣 Hiện tại, tôi đang tập trung nghiên cứu và phát triển các ứng dụng Machine Learning (học máy) và Computer Vision (thị giác máy tính) cho bài toán chẩn đoán ung thư cổ tử cung. Đồng thời, tôi cũng làm việc với các mô hình ngôn ngữ lớn (Large Language Models) và mô hình ngôn ngữ thị giác (Vision Language Models) nhằm cải thiện các ứng dụng trong lĩnh vực y tế và phát triển nền tảng giáo dục trực tuyến.
+🏣 Hiện tại, tôi đang tập trung vào việc nghiên cứu và phát triển các ứng dụng Machine Learning và Computer Vision nhằm giải quyết các bài toán thực tiễn trong lĩnh vực chăm sóc sức khỏe và giáo dục trực tuyến. Bên cạnh đó, tôi cũng làm việc với các mô hình ngôn ngữ lớn (Large Language Models) và mô hình kết hợp giữa ngôn ngữ và thị giác (Vision-Language Models) với mục tiêu nâng cao chất lượng và hiệu quả cho các giải pháp công nghệ ứng dụng trong đời sống.
 
-Ngoài ra, tôi quan tâm và đang mở rộng nghiên cứu trong các lĩnh vực sau:
+Ngoài ra, tôi cũng quan tâm và có sở thích nghiên cứu ở một số lĩnh vực như:
 
 - Ứng dụng MLOps, DLOps, LLMOps để tối ưu hóa quy trình phát triển, triển khai và vận hành các mô hình AI.
 

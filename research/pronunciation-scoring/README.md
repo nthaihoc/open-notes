@@ -81,7 +81,7 @@
 
 | Phase | Deadline | Task | Description | Resources |
 | :---: | :------: | :--- | :---------- | :------: |
-| **01_Nghiên cứu tổng quan & Chuẩn bị dữ liệu** | `02/06 - 02/07, 2025` | W01_Tổng quan về bài toán Pronunciation Scoring | - Phân tích 3 chức năng, mục tiêu chính của bài toán (detect, score, feedback). <br> - Nghiên cứu một số paper quan trọng liên quan đến PS (GOP, DNN-GOP, Wav2Vec-Scoring). <br> - Nghiên cứu một số kiến trúc PS tổng thể (gồm phần thu âm, xử lý âm thanh, phân tích, chấm điểm và phản hồi cho người học). | |
+| **01_Nghiên cứu tổng quan & Chuẩn bị dữ liệu** | `02/06 - 02/07, 2025` | W01_Tổng quan về bài toán Pronunciation Scoring | - Phân tích 3 chức năng, mục tiêu chính của bài toán (detect, score, feedback). <br> - Nghiên cứu một số paper quan trọng liên quan đến PS (GOP, DNN-GOP, Wav2Vec-Scoring). <br> - Nghiên cứu một số kiến trúc PS tổng thể (gồm phần thu âm, xử lý âm thanh, phân tích, chấm điểm và phản hồi cho người học). | [[Report]](pronunciation-scoring/note01.md) |
 | | | W02: Thu thập và tìm hiểu một số bộ dữ liệu công khai | - Lựa chọn, tìm các bộ dữ liệu người Việt nói Tiếng Anh hoặc người không phải bản địa nói tiếng Anh. <br> - Chuẩn hóa âm thanh sao cho có định dạng đảm bảo tính phù hợp và chât lượng. <br> - Tạo transcript đi kèm, chuyển sang dạng phát âm từng âm tiết. <br> - Căn khớp âm thanh với văn bản, sử dụng một số công cụ căn khớp để xác định chính xác vị trí từng âm thanh trong câu nói (Montreal Forced Aligner hoặc Gentle). | |
 | | | W03: Chạy mô hình đánh giá cơ bản và phân tích lỗi | - Dùng một số mô hình đơn giản có sẵn như GOP để chấm điểm từng âm người học phát ra, từ đó biết âm nào phát đúng, âm nào sai. <br> - Dựa vào kết quả mô hình, đánh giá thủ công, xác định một số lỗi phổ biến mà người Việt thường mắc phải khi nói tiếng Anh. <br> - Lựa chọn hoặc tự tạo một bộ dữ liệu thủ công, tự gán nhãn đúng sai nhằm so sánh kết quả mà mô hình đưa ra. | |
 | | | W04: Phân tích đặc trưng & Thử nghiệm mô hình chấm điểm | - Lấy đặc điểm của âm thanh để phân tích mở rộng, sử dụng môt số công cụ như librosa hoặc openSMILE để trích xuất một số đặc điểm quan trọng (độ cao giọng, độ vang, hình dạng âm thanh,v.v.). <br> - Sử dụng một số thuật toán dễ huấn luyện để ước lượng điểm phát âm của người học dựa trên các đặc trưng đã trích xuất. <br> - Thử nghiệm và phản hồi cơ bản như âm nào người học đã nói sai, cách phát âm đúng là gì.v.v. | |
@@ -101,7 +101,7 @@
 | 02  | `L2-ARCTIC`| - Bộ dữ liệu gồm 26.867 câu thoại của 24 người không phải bản địa, có cân bằng giới tính. <br> - Tổng 27 giờ âm thanh và có gán nhãn lỗi phát âm (thay âm, thiếu âm, thêm âm) | [[l2-arctic]](https://psi.engr.tamu.edu/l2-arctic-corpus/) |
 | 03 | `LibriSpeech` | - Bộ dữ liệu lớn gần 1000 giờ gồm các đoạn ghi âm sách nói tiếng Anh. <br> - Được chia thành hai type chính (clean và other), trong đó clean được cho là dễ dàng nhận dạng hơn còn other có tiềng ồn và khó nhận biết hơn. | [[librispeech]](https://www.openslr.org/12/) |
 
-<!-- ## ⚔️ Benchmarks for Pronunciation Scoring Datasets
+## ⚔️ Benchmarks for Pronunciation Scoring Datasets
 
 | No. | Dataset | Task | Model | PCC | Notes | Resources |
 | :-: | :-----: | :--: | :---- | :-: | :---- |:-------: |
@@ -116,5 +116,5 @@
 | 01 | `Speechocean762` | Utterance-level | 3MH | 0.81 | | [Paper](https://arxiv.org/pdf/2305.18146v4) |
 | 02 | | | HierCB+ConPCO | 0.80 | | [Paper](https://paperswithcode.com/paper/conpco-preserving-phoneme-characteristics-for) |
 | 03 | | | GOPT-Librispeech | 0.74 | | [Paper]() |
-| 04 | | | GOPT-PAII | 0.73 | | [Paper](https://arxiv.org/pdf/2205.03432v1) | -->
+| 04 | | | GOPT-PAII | 0.73 | | [Paper](https://arxiv.org/pdf/2205.03432v1) |
                                                                                                 
